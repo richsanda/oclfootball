@@ -1,0 +1,2 @@
+insert into city(country, name, state, map) values ('w', 'w', 'w', '-27.470933, 153.023502')
+insert into hotel(city_id, name, address, zip) values (1, 'w Treasury Place', 'William & George Streets', '4001')

@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin: 0px;
+    font-size: 1.1em;
+}
+div.block {
+    display: inline-block;
+    zoom: 1;
+    vertical-align: top;
+    padding: 4px;
+}
+div.header {
+    display: inline-block;
+    zoom: 1;
+    vertical-align: top;
+    padding: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 1.2em;
+}
+div.index {width: 5%;}
+div.points {width: 6%;}
+div.season {width: 6%;}
+div.week {width: 6%;}
+div.team {width: 6%;}
+div.outcome {width: 6%;}
+
+div.player {
+    font-size: 0.8em;
+    text-align: left;
+}
+
+div.teamheader {width: 25%;}
+div.teambox {width: 25%;}
+div.teamname {padding: 2px; padding-bottom: 5px;}
+
+div.game {border-width: 1px; border-color: wheat; border-style: solid;}
+div.playername {width: 70%;}
+div.playerpos {width: 10%; font-weight: bold;}
+div.playerpts {width: 10%; text-align: right; font-weight: bold;}
+
+span.playergame {color: aliceblue; font-style: italic;}
+
+
+div.trav {background-color: #696969;}
+div.nick {background-color: #9a7a7a;}
+div.grum {background-color: #3a7a7a;}
+div.justin {background-color: #2a0a7a;}
+div.rux {background-color: #155a7a;}
+div.rich {background-color: #757a2a;}
+div.greg {background-color: #a56a9a;}
+div.spoth {background-color: #b56a9a;}
+div.mike {background-color: #c53a9a;}
+div.argo {background-color: #3a9a95;}
+div.bill {background-color: #8a9ac5;}
+div.ruggs {background-color: #7a9a75;}
+div.dodge {background-color: #1a5a55;}
+
+
