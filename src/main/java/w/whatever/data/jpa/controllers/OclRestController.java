@@ -47,11 +47,13 @@ public class OclRestController {
         return city;
     }
 
+    /*
     @RequestMapping(value = "/load", method= RequestMethod.GET, produces = "application/html")
     public String loadOclData() throws Exception {
         oclLoadJobRunner.run();
         return "Done";
     }
+    */
 
     @RequestMapping(value = "/game", method= RequestMethod.GET, produces = "application/json")
     public @ResponseBody Game giveMeAGame(@RequestParam Integer season, @RequestParam Integer scoringPeriod, @RequestParam Integer team) {

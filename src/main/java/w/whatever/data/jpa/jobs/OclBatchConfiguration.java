@@ -2,9 +2,7 @@ package w.whatever.data.jpa.jobs;
 
 import org.springframework.batch.core.*;
 import org.springframework.batch.core.configuration.annotation.*;
-import org.springframework.batch.core.explore.JobExplorer;
 import org.springframework.batch.core.launch.JobLauncher;
-import org.springframework.batch.core.launch.NoSuchJobException;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
@@ -16,17 +14,17 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.*;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
+import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
-import w.whatever.data.jpa.OclApplication;
+import org.springframework.transaction.PlatformTransactionManager;
 import w.whatever.data.jpa.domain.Game;
 import w.whatever.data.jpa.jobs.ocl.load.OclGameProcessor;
 import w.whatever.data.jpa.jobs.ocl.load.OclLoadJobRunner;
 import w.whatever.data.jpa.jobs.ocl.load.OclGameWriter;
 import w.whatever.data.jpa.service.data.GameRepository;
 
+import javax.persistence.EntityManagerFactory;
 import java.io.IOException;
-import java.util.List;
-import java.util.Set;
 
 /**
  * Created by rich on 10/15/15.
@@ -46,6 +44,14 @@ public class OclBatchConfiguration extends DefaultBatchConfigurer {
 
     @Autowired
     private GameRepository gameRepository;
+
+    @Autowired
+    EntityManagerFactory entityManagerFactory;
+
+    @Bean
+    PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
+        return new JpaTransactionManager(entityManagerFactory);
+    }
 
     @Bean
     public OclLoadJobRunner oclLoadJobRunner() throws Exception {
@@ -114,57 +120,5 @@ public class OclBatchConfiguration extends DefaultBatchConfigurer {
         OclGameWriter writer = new OclGameWriter();
         writer.setGameRepository(gameRepository);
         return writer;
-    }
-
-
-    @Override
-    public JobExplorer getJobExplorer() {
-        return new JobExplorer() {
-
-            @Override
-            public List<JobInstance> getJobInstances(String jobName, int start, int count) {
-                return null;
-            }
-
-            @Override
-            public JobExecution getJobExecution(Long executionId) {
-                return null;
-            }
-
-            @Override
-            public StepExecution getStepExecution(Long jobExecutionId, Long stepExecutionId) {
-                return null;
-            }
-
-            @Override
-            public JobInstance getJobInstance(Long instanceId) {
-                return null;
-            }
-
-            @Override
-            public List<JobExecution> getJobExecutions(JobInstance jobInstance) {
-                return null;
-            }
-
-            @Override
-            public Set<JobExecution> findRunningJobExecutions(String jobName) {
-                return null;
-            }
-
-            @Override
-            public List<String> getJobNames() {
-                return null;
-            }
-
-            @Override
-            public List<JobInstance> findJobInstancesByJobName(String jobName, int start, int count) {
-                return null;
-            }
-
-            @Override
-            public int getJobInstanceCount(String jobName) throws NoSuchJobException {
-                return 0;
-            }
-        };
     }
 }
