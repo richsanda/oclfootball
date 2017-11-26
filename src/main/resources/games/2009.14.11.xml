@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2009.14.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr9638"><player-name>Greg Jennings, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70303&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Chi&lt;/a&gt;</link><opponent>@Chi</opponent><game-status>W 21-14</game-status><points>7</points></player><player id="plyr10475"><player-name>Greg Olsen, Chi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70409&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>L 14-21</game-status><points>1</points></player><player id="plyr60021"><player-name>Eagles D/ST, Phi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71619&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>W 45-38</game-status><points>16</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70509&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>L 14-21</game-status><points>2</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70129&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>W 20-10</game-status><points>9</points></player><player id="plyr2622"><player-name>Steve Smith, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70317&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 10-20</game-status><points>16</points></player><player id="plyr10471"><player-name>Robert Meachem, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70301&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>W 26-23</game-status><points>5</points></player><player id="plyr8523"><player-name>Marion Barber, Dal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70224&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>L 17-20</game-status><points>6</points></player></players></team><team><header>Fly with Balloons Box Score</header><players><player id="plyr12563"><player-name>Michael Crabtree, SF&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70322&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 24-9</game-status><points>12</points></player><player id="plyr11247"><player-name>Jonathan Stewart, Car&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 10-20</game-status><points>2</points></player><player id="plyr60027"><player-name>Buccaneers D/ST, TB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71620&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>L 3-26</game-status><points>2</points></player><player id="plyr1428"><player-name>Peyton Manning, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70107&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 28-16</game-status><points>18</points></player><player id="plyr2578"><player-name>Reggie Wayne, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 28-16</game-status><points>4</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70514&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 47-7</game-status><points>19</points></player><player id="plyr8593"><player-name>Bo Scaife, Ten&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70414&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 47-7</game-status><points>4</points></player><player id="plyr9646"><player-name>Maurice Jones-Drew, Jac&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>L 10-14</game-status><points>13</points></player></players></team></game>
+<game season="2009" scoringPeriod="14" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 21-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 14-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 45-38</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 14-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 20-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10471">
+            <player-slot/>
+            <player-name>Robert Meachem, NO WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, SF WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 24-9</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 3-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 28-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 28-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 47-7</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr8593">
+            <player-slot/>
+            <player-name>Bo Scaife, Ten TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 47-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 10-14</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

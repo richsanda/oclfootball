@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2009.16.6.xml"><team><header>The Franchise Box Score</header><players><player id="plyr12525"><player-name>Beanie Wells, Ari&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70214&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 31-10</game-status><points>14</points></player><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70127&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>L 17-20</game-status><points>14</points></player><player id="plyr11325"><player-name>Jermichael Finley, GB&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70426&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>W 48-10</game-status><points>8</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 31-3</game-status><points>29</points></player><player id="plyr3413"><player-name>Lawrence Tynes, NYG&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70529&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>L 9-41</game-status><points>4</points></player><player id="plyr8475"><player-name>Vincent Jackson, SD&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 42-17</game-status><points>7</points></player><player id="plyr60001"><player-name>Falcons D/ST, Atl&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71602&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 31-3</game-status><points>21</points></player><player id="plyr9731"><player-name>Jerome Harrison, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 23-9</game-status><points>20</points></player></players></team><team><header>Cambridge Argonauts Box Score</header><players><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 6-20</game-status><points>8</points></player><player id="plyr10147"><player-name>Miles Austin, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70328&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Was&lt;/a&gt;</link><opponent>@Was</opponent><game-status>W 17-0</game-status><points>9</points></player><player id="plyr5362"><player-name>Antonio Gates, SD&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70410&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 42-17</game-status><points>13</points></player><player id="plyr9838"><player-name>Marques Colston, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>L 17-20</game-status><points>5</points></player><player id="plyr2548"><player-name>Jay Feely, NYJ&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 29-15</game-status><points>8</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>W 23-20</game-status><points>10</points></player><player id="plyr8419"><player-name>Cedric Benson, Cin&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 17-10</game-status><points>15</points></player><player id="plyr4459"><player-name>Carson Palmer, Cin&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70112&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 17-10</game-status><points>11</points></player></players></team></game>
+<game season="2009" scoringPeriod="16" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 48-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-3</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-41</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 42-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-3</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9731">
+            <player-slot/>
+            <player-name>Jerome Harrison, Cle RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-9</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 6-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-0</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 42-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYJ K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 29-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 17-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 17-10</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

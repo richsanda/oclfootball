@@ -31,7 +31,7 @@ import java.io.IOException;
  */
 @Configuration
 @EnableBatchProcessing()
-public class OclBatchConfiguration extends DefaultBatchConfigurer {
+public class OclGameBatchConfiguration extends DefaultBatchConfigurer {
 
     @Autowired
     private JobBuilderFactory jobs;

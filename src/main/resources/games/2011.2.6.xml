@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2011.2.6.xml"><team><header>The Franchise Box Score</header><players><player id="plyr60013"><player-name>Raiders D/ST, Oak&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71602&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 35-38</game-status><points>-2</points></player><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70103&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 30-13</game-status><points>24</points></player><player id="plyr2148"><player-name>Sebastian Janikowski, Oak&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70502&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 35-38</game-status><points>5</points></player><player id="plyr13229"><player-name>Rob Gronkowski, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70424&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>W 35-21</game-status><points>20</points></player><player id="plyr11307"><player-name>Jamaal Charles, KC&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>L 3-48</game-status><points>2</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 35-31</game-status><points>8</points></player><player id="plyr9588"><player-name>Reggie Bush, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>L 13-23</game-status><points>1</points></player><player id="plyr2139"><player-name>Plaxico Burress, NYJ&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Jac&lt;/a&gt;</link><opponent>Jac</opponent><game-status>W 32-3</game-status><points>0</points></player></players></team><team><header>Smooth Criminals Box Score</header><players><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70312&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 48-3</game-status><points>14</points></player><player id="plyr60034"><player-name>Texans D/ST, Hou&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71615&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>W 23-13</game-status><points>12</points></player><player id="plyr4527"><player-name>Jason Witten, Dal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 27-24</game-status><points>12</points></player><player id="plyr4512"><player-name>Anquan Boldin, Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 13-26</game-status><points>4</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70124&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>W 35-21</game-status><points>32</points></player><player id="plyr10621"><player-name>Nick Folk, NYJ&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70530&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Jac&lt;/a&gt;</link><opponent>Jac</opponent><game-status>W 32-3</game-status><points>13</points></player><player id="plyr11383"><player-name>Tim Hightower, Wsh&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70222&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 22-21</game-status><points>10</points></player><player id="plyr12514"><player-name>LeSean McCoy, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70201&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>L 31-35</game-status><points>23</points></player></players></team></game>
+<game season="2011" scoringPeriod="2" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 35-38</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 30-13</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 35-38</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-48</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 35-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 13-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYJ WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 32-3</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 48-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Bal WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 13-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 32-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Wsh RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 22-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 31-35</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

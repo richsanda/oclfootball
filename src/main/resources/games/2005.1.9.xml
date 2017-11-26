@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2005.1.9.xml"><team><header>Turd Ferguson Box Score</header><players><player id="plyr4559"><player-name>Domanick Davis, Hou&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 7-22</game-status><points>2</points></player><player id="plyr1097"><player-name>Adam Vinatieri, NE&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70513&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 30-20</game-status><points>4</points></player><player id="plyr1428"><player-name>Peyton Manning, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70133&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>W 24-7</game-status><points>18</points></player><player id="plyr4527"><player-name>Jason Witten, Dal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70424&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 28-24</game-status><points>1</points></player><player id="plyr1218"><player-name>Tiki Barber, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70222&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 42-19</game-status><points>18</points></player><player id="plyr2753"><player-name>T.J. Houshmandzadeh, Cin&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 27-13</game-status><points>7</points></player><player id="plyr60021"><player-name>Eagles D/ST, Phi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71601&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>L 10-14</game-status><points>11</points></player><player id="plyr658"><player-name>Isaac Bruce, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 25-28</game-status><points>12</points></player></players></team><team><header>Patrick Bugbee Box Score</header><players><player id="plyr3542"><player-name>Jeremy Shockey, NYG&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70422&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 42-19</game-status><points>8</points></player><player id="plyr775"><player-name>Curtis Martin, NYJ&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 7-27</game-status><points>7</points></player><player id="plyr936"><player-name>Muhsin Muhammad, Chi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70328&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Was&lt;/a&gt;</link><opponent>@Was</opponent><game-status>L 7-9</game-status><points>5</points></player><player id="plyr734"><player-name>Kerry Collins, Oak&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70117&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 20-30</game-status><points>22</points></player><player id="plyr453"><player-name>Jason Elam, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70515&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 10-34</game-status><points>4</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71610&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 34-7</game-status><points>15</points></player><player id="plyr4481"><player-name>Willis McGahee, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>W 22-7</game-status><points>14</points></player><player id="plyr5532"><player-name>Roy Williams, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70309&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 17-3</game-status><points>1</points></player></players></team></game>
+<game season="2005" scoringPeriod="1" team="9">
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr4559">
+            <player-slot/>
+            <player-name>Domanick Davis, Hou RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 7-22</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, NE K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 24-7</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 42-19</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 10-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, StL WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 25-28</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 42-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr775">
+            <player-slot/>
+            <player-name>Curtis Martin, NYJ RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 7-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 20-30</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 10-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 34-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 22-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 17-3</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

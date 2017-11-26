@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2006.8.8.xml"><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr8444"><player-name>Heath Miller, Pit&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70413&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>L 13-20</game-status><points>1</points></player><player id="plyr139"><player-name>John Kasay, Car&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70506&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 14-35</game-status><points>2</points></player><player id="plyr5526"><player-name>Eli Manning, NYG&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70127&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 17-3</game-status><points>10</points></player><player id="plyr5568"><player-name>Julius Jones, Dal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70229&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>15</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 22-28</game-status><points>13</points></player><player id="plyr2209"><player-name>Laveranues Coles, NYJ&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>L 13-20</game-status><points>4</points></player><player id="plyr9588"><player-name>Reggie Bush, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70233&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 22-35</game-status><points>-1</points></player><player id="plyr60019"><player-name>Giants D/ST, NYG&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71627&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 17-3</game-status><points>11</points></player></players></team><team><header>Shapley Kings Box Score</header><players><player id="plyr1494"><player-name>Hines Ward, Pit&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>L 13-20</game-status><points>8</points></player><player id="plyr112"><player-name>Brett Favre, GB&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70122&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 31-14</game-status><points>17</points></player><player id="plyr4527"><player-name>Jason Witten, Dal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70429&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>14</points></player><player id="plyr1175"><player-name>Warrick Dunn, Atl&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70204&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>W 29-27</game-status><points>6</points></player><player id="plyr1328"><player-name>Ryan Longwell, Min&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70517&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 7-31</game-status><points>1</points></player><player id="plyr2622"><player-name>Steve Smith, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 14-35</game-status><points>13</points></player><player id="plyr60003"><player-name>Bears D/ST, Chi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>W 41-10</game-status><points>16</points></player><player id="plyr2571"><player-name>Deuce McAllister, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70233&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 22-35</game-status><points>1</points></player></players></team></game>
+<game season="2006" scoringPeriod="8" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 14-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 17-3</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 22-28</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 22-35</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 17-3</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 29-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 7-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 14-35</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 41-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 22-35</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

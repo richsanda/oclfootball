@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2011.4.12.xml"><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr13489"><player-name>Mike Williams, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>W 24-17</game-status><points>6</points></player><player id="plyr60033"><player-name>Ravens D/ST, Bal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71620&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 34-17</game-status><points>29</points></player><player id="plyr11461"><player-name>Peyton Hillis, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70210&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>L 13-31</game-status><points>6</points></player><player id="plyr9307"><player-name>Nate Washington, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 31-13</game-status><points>6</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70108&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>L 30-34</game-status><points>21</points></player><player id="plyr10572"><player-name>Scott Chandler, Buf&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70404&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>L 20-23</game-status><points>0</points></player><player id="plyr12569"><player-name>Percy Harvin, Min&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70312&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 17-22</game-status><points>10</points></player><player id="plyr4245"><player-name>Billy Cundiff, Bal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70520&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 34-17</game-status><points>10</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70130&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 23-10</game-status><points>17</points></player><player id="plyr2148"><player-name>Sebastian Janikowski, Oak&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70517&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 19-31</game-status><points>7</points></player><player id="plyr13229"><player-name>Rob Gronkowski, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70413&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 31-19</game-status><points>1</points></player><player id="plyr12598"><player-name>Mike Thomas, Jac&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70318&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>L 10-23</game-status><points>7</points></player><player id="plyr60024"><player-name>Chargers D/ST, SD&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71615&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 26-16</game-status><points>8</points></player><player id="plyr8544"><player-name>Darren Sproles, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70230&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 23-10</game-status><points>12</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>W 30-28</game-status><points>7</points></player><player id="plyr9400"><player-name>Lance Moore, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 23-10</game-status><points>5</points></player></players></team></game>
+<game season="2011" scoringPeriod="4" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 34-17</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr11461">
+            <player-slot/>
+            <player-name>Peyton Hillis, Cle RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 13-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9307">
+            <player-slot/>
+            <player-name>Nate Washington, Ten WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 30-34</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, Buf TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 20-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 17-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4245">
+            <player-slot/>
+            <player-name>Billy Cundiff, Bal K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 34-17</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 23-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 19-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12598">
+            <player-slot/>
+            <player-name>Mike Thomas, Jac WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 10-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 26-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 23-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 30-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 23-10</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

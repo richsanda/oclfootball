@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2006.8.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr1669"><player-name>Mike Vanderjagt, Dal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70529&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>8</points></player><player id="plyr940"><player-name>Terry Glenn, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70329&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>5</points></player><player id="plyr2583"><player-name>Alge Crumpler, Atl&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70404&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>W 29-27</game-status><points>13</points></player><player id="plyr9838"><player-name>Marques Colston, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 22-35</game-status><points>32</points></player><player id="plyr2606"><player-name>Travis Henry, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>W 28-22</game-status><points>2</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70116&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>W 31-7</game-status><points>30</points></player><player id="plyr60006"><player-name>Cowboys D/ST, Dal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71629&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>10</points></player><player id="plyr5880"><player-name>Willie Parker, Pit&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>L 13-20</game-status><points>16</points></player></players></team><team><header>Apponequet Justins Box Score</header><players><player id="plyr1097"><player-name>Adam Vinatieri, Ind&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70507&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>W 34-31</game-status><points>16</points></player><player id="plyr5362"><player-name>Antonio Gates, SD&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70414&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 38-24</game-status><points>6</points></player><player id="plyr2553"><player-name>LaDainian Tomlinson, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70214&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 38-24</game-status><points>43</points></player><player id="plyr60020"><player-name>Jets D/ST, NYJ&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71605&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>L 13-20</game-status><points>11</points></player><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70114&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 38-24</game-status><points>12</points></player><player id="plyr1432"><player-name>Ahman Green, GB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70222&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 31-14</game-status><points>26</points></player><player id="plyr1966"><player-name>Donald Driver, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70322&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>W 31-14</game-status><points>4</points></player><player id="plyr2584"><player-name>Chad Johnson, Cin&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70301&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 27-29</game-status><points>13</points></player></players></team></game>
+<game season="2006" scoringPeriod="8" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Dal K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 29-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 22-35</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Ten RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 28-22</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 31-7</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-20</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 34-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 38-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 38-24</game-status>
+            <points>43</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 38-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-14</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 27-29</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2008.13.7.xml"><team><header>Apponequet Justins Box Score</header><players><player id="plyr11278"><player-name>Matt Forte, Chi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70216&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 14-34</game-status><points>17</points></player><player id="plyr8644"><player-name>Matt Cassel, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70123&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>L 10-33</game-status><points>-2</points></player><player id="plyr8593"><player-name>Bo Scaife, Ten&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70408&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 47-10</game-status><points>0</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 14-34</game-status><points>2</points></player><player id="plyr2622"><player-name>Steve Smith, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70309&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@GB&lt;/a&gt;</link><opponent>@GB</opponent><game-status>W 35-31</game-status><points>12</points></player><player id="plyr1433"><player-name>Randy Moss, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70323&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>L 10-33</game-status><points>4</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71623&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>L 10-33</game-status><points>-1</points></player><player id="plyr8479"><player-name>Frank Gore, SF&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 10-3</game-status><points>6</points></player></players></team><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr11122"><player-name>Matt Prater, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70520&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 34-17</game-status><points>10</points></player><player id="plyr9597"><player-name>Jay Cutler, Den&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70120&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 34-17</game-status><points>24</points></player><player id="plyr4601"><player-name>Justin Gage, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 47-10</game-status><points>4</points></player><player id="plyr60010"><player-name>Titans D/ST, Ten&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71608&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 47-10</game-status><points>20</points></player><player id="plyr11298"><player-name>Kevin Smith, Det&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70210&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>L 10-47</game-status><points>2</points></player><player id="plyr9647"><player-name>Tony Scheffler, Den&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70420&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 34-17</game-status><points>9</points></player><player id="plyr2136"><player-name>Jamal Lewis, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 6-10</game-status><points>7</points></player><player id="plyr8418"><player-name>Braylon Edwards, Cle&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 6-10</game-status><points>3</points></player></players></team></game>
+<game season="2008" scoringPeriod="13" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-34</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr8644">
+            <player-slot/>
+            <player-name>Matt Cassel, NE QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-33</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr8593">
+            <player-slot/>
+            <player-name>Bo Scaife, Ten TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 47-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 35-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-33</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 10-3</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-17</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 47-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 47-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-47</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 6-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 6-10</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

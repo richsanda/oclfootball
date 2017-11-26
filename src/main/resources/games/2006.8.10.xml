@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2006.8.10.xml"><team><header>Cambridge Argonauts Box Score</header><players><player id="plyr4512"><player-name>Anquan Boldin, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70309&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@GB&lt;/a&gt;</link><opponent>@GB</opponent><game-status>L 14-31</game-status><points>4</points></player><player id="plyr5531"><player-name>Kellen Winslow, Cle&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70420&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 20-13</game-status><points>13</points></player><player id="plyr1753"><player-name>Donovan McNabb, Phi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70130&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Jac&lt;/a&gt;</link><opponent>Jac</opponent><game-status>L 6-13</game-status><points>9</points></player><player id="plyr1056"><player-name>Terrell Owens, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70329&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 35-14</game-status><points>14</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71616&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>W 31-7</game-status><points>16</points></player><player id="plyr5549"><player-name>Steven Jackson, StL&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70224&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>L 24-38</game-status><points>19</points></player><player id="plyr726"><player-name>Jeff Wilkins, StL&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70524&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>L 24-38</game-status><points>6</points></player><player id="plyr5566"><player-name>Tatum Bell, Den&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 31-34</game-status><points>2</points></player></players></team><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr9684"><player-name>Owen Daniels, Hou&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70410&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 22-28</game-status><points>21</points></player><player id="plyr2753"><player-name>T.J. Houshmandzadeh, Cin&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70301&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 27-29</game-status><points>7</points></player><player id="plyr4680"><player-name>Josh Brown, Sea&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70512&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 28-35</game-status><points>4</points></player><player id="plyr9589"><player-name>Vince Young, Ten&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70134&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>W 28-22</game-status><points>17</points></player><player id="plyr5633"><player-name>Jerricho Cotchery, NYJ&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>L 13-20</game-status><points>4</points></player><player id="plyr60016"><player-name>Vikings D/ST, Min&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71617&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 7-31</game-status><points>9</points></player><player id="plyr8479"><player-name>Frank Gore, SF&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70203&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Chi&lt;/a&gt;</link><opponent>@Chi</opponent><game-status>L 10-41</game-status><points>13</points></player><player id="plyr3562"><player-name>DeShaun Foster, Car&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70206&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 14-35</game-status><points>14</points></player></players></team></game>
+<game season="2006" scoringPeriod="8" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 20-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 6-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 35-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 31-7</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 24-38</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 24-38</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5566">
+            <player-slot/>
+            <player-name>Tatum Bell, Den RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 31-34</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 22-28</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 27-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 28-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9589">
+            <player-slot/>
+            <player-name>Vince Young, Ten QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 28-22</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 7-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-41</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 14-35</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

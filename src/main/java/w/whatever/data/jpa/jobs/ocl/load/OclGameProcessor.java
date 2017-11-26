@@ -11,7 +11,6 @@ public class OclGameProcessor implements ItemProcessor<Game, Game> {
     @Override
     public Game process(Game game) throws Exception {
 
-        // convert file to season, scoring period, and team
         game.init();
 
         return game;

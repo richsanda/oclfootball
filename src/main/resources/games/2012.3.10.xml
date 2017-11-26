@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2012.3.10.xml"><team><header>Cambridge Argonauts Box Score</header><players><player id="plyr14123"><player-name>Alex Henery, Phi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70522&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Ari&lt;/a&gt;</link><opponent>@Ari</opponent><game-status>L 6-27</game-status><points>7</points></player><player id="plyr5362"><player-name>Antonio Gates, SD&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70401&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 3-27</game-status><points>2</points></player><player id="plyr9638"><player-name>Greg Jennings, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>L 12-14</game-status><points>3</points></player><player id="plyr60020"><player-name>Jets D/ST, NYJ&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71615&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>W 23-20</game-status><points>10</points></player><player id="plyr12556"><player-name>Kenny Britt, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 44-41</game-status><points>5</points></player><player id="plyr12483"><player-name>Matthew Stafford, Det&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70110&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 41-44</game-status><points>18</points></player><player id="plyr13203"><player-name>C.J. Spiller, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70205&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 24-14</game-status><points>11</points></player><player id="plyr12497"><player-name>Arian Foster, Hou&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>W 31-25</game-status><points>18</points></player></players></team><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr14885"><player-name>Doug Martin, TB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70206&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 10-16</game-status><points>7</points></player><player id="plyr11325"><player-name>Jermichael Finley, GB&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70426&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>L 12-14</game-status><points>6</points></player><player id="plyr13934"><player-name>Antonio Brown, Pit&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>L 31-34</game-status><points>12</points></player><player id="plyr12569"><player-name>Percy Harvin, Min&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>W 24-13</game-status><points>8</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71613&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>L 31-34</game-status><points>-1</points></player><player id="plyr5528"><player-name>Larry Fitzgerald, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 27-6</game-status><points>19</points></player><player id="plyr286"><player-name>Jason Hanson, Det&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70510&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 41-44</game-status><points>18</points></player><player id="plyr11237"><player-name>Matt Ryan, Atl&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70124&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 27-3</game-status><points>21</points></player></players></team></game>
+<game season="2012" scoringPeriod="3" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 3-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 12-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12556">
+            <player-slot/>
+            <player-name>Kenny Britt, Ten WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 44-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 41-44</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, Buf RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 24-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 31-25</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 12-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-6</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 41-44</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 27-3</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

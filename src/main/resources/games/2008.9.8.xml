@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2008.9.8.xml"><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr4950"><player-name>Earnest Graham, TB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>W 30-27</game-status><points>8</points></player><player id="plyr10475"><player-name>Greg Olsen, Chi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70408&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 27-23</game-status><points>1</points></player><player id="plyr60027"><player-name>Buccaneers D/ST, TB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71612&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>W 30-27</game-status><points>8</points></player><player id="plyr11276"><player-name>Eddie Royal, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70315&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>L 17-26</game-status><points>12</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70509&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 19-16</game-status><points>13</points></player><player id="plyr11267"><player-name>Donnie Avery, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70322&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Ari&lt;/a&gt;</link><opponent>Ari</opponent><game-status>L 13-34</game-status><points>2</points></player><player id="plyr3636"><player-name>David Garrard, Jac&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70104&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>L 19-21</game-status><points>9</points></player><player id="plyr8417"><player-name>Ronnie Brown, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>W 26-17</game-status><points>14</points></player></players></team><team><header>Apponequet Justins Box Score</header><players><player id="plyr11278"><player-name>Matt Forte, Chi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 27-23</game-status><points>14</points></player><player id="plyr1798"><player-name>Kevin Faulk, NE&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 15-18</game-status><points>9</points></player><player id="plyr60005"><player-name>Browns D/ST, Cle&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 27-37</game-status><points>1</points></player><player id="plyr8593"><player-name>Bo Scaife, Ten&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70409&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 19-16</game-status><points>2</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70508&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 27-23</game-status><points>10</points></player><player id="plyr1433"><player-name>Randy Moss, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 15-18</game-status><points>4</points></player><player id="plyr8520"><player-name>Kyle Orton, Chi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70108&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 27-23</game-status><points>10</points></player><player id="plyr5532"><player-name>Roy E. Williams, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 14-35</game-status><points>2</points></player></players></team></game>
+<game season="2008" scoringPeriod="9" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 30-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 30-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11276">
+            <player-slot/>
+            <player-name>Eddie Royal, Den WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 19-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11267">
+            <player-slot/>
+            <player-name>Donnie Avery, StL WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 13-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3636">
+            <player-slot/>
+            <player-name>David Garrard, Jac QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 19-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 26-17</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1798">
+            <player-slot/>
+            <player-name>Kevin Faulk, NE RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 15-18</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 27-37</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8593">
+            <player-slot/>
+            <player-name>Bo Scaife, Ten TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 19-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 15-18</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8520">
+            <player-slot/>
+            <player-name>Kyle Orton, Chi QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy E. Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 14-35</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

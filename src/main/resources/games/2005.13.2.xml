@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2005.13.2.xml"><team><header>Merrymount Merry Men Box Score</header><players><player id="plyr940"><player-name>Terry Glenn, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 10-17</game-status><points>9</points></player><player id="plyr2898"><player-name>Drew Bennett, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 3-35</game-status><points>3</points></player><player id="plyr60030"><player-name>Jaguars D/ST, Jac&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71605&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 20-14</game-status><points>6</points></player><player id="plyr5526"><player-name>Eli Manning, NYG&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70106&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>W 17-10</game-status><points>2</points></player><player id="plyr2649"><player-name>Rudi Johnson, Cin&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70223&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Pit&lt;/a&gt;</link><opponent>@Pit</opponent><game-status>W 38-31</game-status><points>21</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 3-35</game-status><points>3</points></player><player id="plyr9387"><player-name>Samkon Gado, GB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70203&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Chi&lt;/a&gt;</link><opponent>@Chi</opponent><game-status>L 7-19</game-status><points>14</points></player><player id="plyr4519"><player-name>L.J. Smith, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70426&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>L 0-42</game-status><points>4</points></player></players></team><team><header>Patrick Bugbee Box Score</header><players><player id="plyr3542"><player-name>Jeremy Shockey, NYG&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70406&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>W 17-10</game-status><points>2</points></player><player id="plyr60008"><player-name>Lions D/ST, Det&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71616&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>L 16-21</game-status><points>2</points></player><player id="plyr751"><player-name>Joey Galloway, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70318&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NO&lt;/a&gt;</link><opponent>@NO</opponent><game-status>W 10-3</game-status><points>13</points></player><player id="plyr734"><player-name>Kerry Collins, Oak&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70124&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>L 10-34</game-status><points>11</points></player><player id="plyr453"><player-name>Jason Elam, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70512&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 27-31</game-status><points>10</points></player><player id="plyr4481"><player-name>Willis McGahee, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 23-24</game-status><points>9</points></player><player id="plyr3619"><player-name>Brian Westbrook, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70226&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>L 0-42</game-status><points>4</points></player><player id="plyr5532"><player-name>Roy Williams, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70316&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>L 16-21</game-status><points>3</points></player></players></team></game>
+<game season="2005" scoringPeriod="13" team="2">
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 10-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 3-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 20-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 17-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 38-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 3-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9387">
+            <player-slot/>
+            <player-name>Samkon Gado, GB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-19</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 0-42</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 17-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 10-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 27-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 0-42</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-21</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

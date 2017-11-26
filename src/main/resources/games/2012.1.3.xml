@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2012.1.3.xml"><team><header>Fly with Balloons Box Score</header><players><player id="plyr14884"><player-name>Trent Richardson, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70221&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>L 16-17</game-status><points>3</points></player><player id="plyr13228"><player-name>Jermaine Gresham, Cin&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70433&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 13-44</game-status><points>3</points></player><player id="plyr1428"><player-name>Peyton Manning, Den&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70123&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>W 31-19</game-status><points>22</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>W 41-21</game-status><points>11</points></player><player id="plyr12586"><player-name>Hakeem Nicks, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 17-24</game-status><points>3</points></player><player id="plyr60001"><player-name>Falcons D/ST, Atl&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71612&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>W 40-24</game-status><points>8</points></player><player id="plyr5549"><player-name>Steven Jackson, StL&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>L 23-27</game-status><points>8</points></player><player id="plyr10467"><player-name>Dwayne Bowe, KC&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70301&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 24-40</game-status><points>5</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70128&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Wsh&lt;/a&gt;</link><opponent>Wsh</opponent><game-status>L 32-40</game-status><points>23</points></player><player id="plyr2148"><player-name>Sebastian Janikowski, Oak&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70524&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>L 14-22</game-status><points>8</points></player><player id="plyr13229"><player-name>Rob Gronkowski, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70410&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 34-13</game-status><points>12</points></player><player id="plyr10147"><player-name>Miles Austin, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>W 24-17</game-status><points>13</points></player><player id="plyr8544"><player-name>Darren Sproles, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70228&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Wsh&lt;/a&gt;</link><opponent>Wsh</opponent><game-status>L 32-40</game-status><points>11</points></player><player id="plyr13982"><player-name>Julio Jones, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70312&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>W 40-24</game-status><points>24</points></player><player id="plyr9588"><player-name>Reggie Bush, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 10-30</game-status><points>10</points></player><player id="plyr60003"><player-name>Bears D/ST, Chi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71611&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>W 41-21</game-status><points>13</points></player></players></team></game>
+<game season="2012" scoringPeriod="1" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 16-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13228">
+            <player-slot/>
+            <player-name>Jermaine Gresham, Cin TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 13-44</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 31-19</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 41-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 40-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 24-40</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 32-40</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-22</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 32-40</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 40-24</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 10-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 41-21</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

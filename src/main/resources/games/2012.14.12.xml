@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2012.14.12.xml"><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr13489"><player-name>Mike Williams, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>L 21-23</game-status><points>7</points></player><player id="plyr5679"><player-name>Michael Turner, Atl&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70229&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>L 20-30</game-status><points>7</points></player><player id="plyr10195"><player-name>Fred Jackson, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70214&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>L 12-15</game-status><points>0</points></player><player id="plyr15058"><player-name>Blair Walsh, Min&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70503&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 21-14</game-status><points>3</points></player><player id="plyr60007"><player-name>Broncos D/ST, Den&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71613&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>9</points></player><player id="plyr14875"><player-name>Robert Griffin III, Wsh&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70133&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>W 31-28</game-status><points>16</points></player><player id="plyr13271"><player-name>Eric Decker, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>8</points></player><player id="plyr9614"><player-name>Marcedes Lewis, Jac&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70420&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>L 10-17</game-status><points>0</points></player></players></team><team><header>Shapley Kings Box Score</header><players><player id="plyr11122"><player-name>Matt Prater, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70513&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>15</points></player><player id="plyr11289"><player-name>Ray Rice, Bal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70228&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Wsh&lt;/a&gt;</link><opponent>@Wsh</opponent><game-status>L 28-31</game-status><points>21</points></player><player id="plyr60024"><player-name>Chargers D/ST, SD&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71623&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Pit&lt;/a&gt;</link><opponent>@Pit</opponent><game-status>W 34-24</game-status><points>11</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70317&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 14-42</game-status><points>9</points></player><player id="plyr8475"><player-name>Vincent Jackson, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>L 21-23</game-status><points>21</points></player><player id="plyr10605"><player-name>Brent Celek, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70427&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>W 23-21</game-status><points>0</points></player><player id="plyr8439"><player-name>Aaron Rodgers, GB&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70108&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 27-20</game-status><points>13</points></player><player id="plyr8479"><player-name>Frank Gore, SF&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 27-13</game-status><points>14</points></player></players></team></game>
+<game season="2012" scoringPeriod="14" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 12-15</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 21-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 31-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, Den WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 10-17</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 28-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 34-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 14-42</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-23</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 23-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

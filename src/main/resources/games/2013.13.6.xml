@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2013.13.6.xml"><team><header>The Franchise Box Score</header><players><player id="plyr60029"><player-name>Panthers D/ST, Car&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71627&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 27-6</game-status><points>16</points></player><player id="plyr14322"><player-name>Dan Bailey, Dal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70513&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 31-24</game-status><points>7</points></player><player id="plyr14017"><player-name>Shane Vereen, NE&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>W 34-31</game-status><points>12</points></player><player id="plyr13229"><player-name>Rob Gronkowski, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70434&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>W 34-31</game-status><points>20</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70113&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 31-24</game-status><points>13</points></player><player id="plyr14908"><player-name>Michael Floyd, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 21-24</game-status><points>15</points></player><player id="plyr9588"><player-name>Reggie Bush, Det&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70209&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 40-10</game-status><points>23</points></player><player id="plyr10522"><player-name>James Jones, Oak&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 24-31</game-status><points>7</points></player></players></team><team><header>Smooth Criminals Box Score</header><players><player id="plyr10195"><player-name>Fred Jackson, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70201&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 31-34</game-status><points>19</points></player><player id="plyr14032"><player-name>Torrey Smith, Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70323&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>W 22-20</game-status><points>15</points></player><player id="plyr12537"><player-name>Jared Cook, StL&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 13-23</game-status><points>4</points></player><player id="plyr60024"><player-name>Chargers D/ST, SD&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71604&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 10-17</game-status><points>5</points></player><player id="plyr4529"><player-name>Nate Burleson, Cle&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Jac&lt;/a&gt;</link><opponent>Jac</opponent><game-status>L 28-32</game-status><points>0</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 20-23</game-status><points>8</points></player><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70104&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 10-17</game-status><points>12</points></player><player id="plyr9646"><player-name>Maurice Jones-Drew, Oak&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70206&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 24-31</game-status><points>11</points></player></players></team></game>
+<game season="2013" scoringPeriod="13" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-6</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 31-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NE RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-31</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 31-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14908">
+            <player-slot/>
+            <player-name>Michael Floyd, Ari WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 21-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 40-10</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 24-31</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 31-34</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 22-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Cle WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 28-32</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Oak RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 24-31</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

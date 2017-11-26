@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2005.1.1.xml"><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr60012"><player-name>Chiefs D/ST, KC&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71620&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 27-7</game-status><points>15</points></player><player id="plyr112"><player-name>Brett Favre, GB&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70108&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>L 3-17</game-status><points>2</points></player><player id="plyr5528"><player-name>Larry Fitzgerald, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 19-42</game-status><points>23</points></player><player id="plyr3549"><player-name>Daniel Graham, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70413&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 30-20</game-status><points>1</points></player><player id="plyr2584"><player-name>Chad Johnson, Cin&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 27-13</game-status><points>10</points></player><player id="plyr726"><player-name>Jeff Wilkins, StL&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70525&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 25-28</game-status><points>15</points></player><player id="plyr3579"><player-name>Clinton Portis, Was&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70203&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 9-7</game-status><points>14</points></player><player id="plyr2571"><player-name>Deuce McAllister, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70229&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 23-20</game-status><points>18</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr2150"><player-name>Shaun Alexander, Sea&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70230&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>L 14-26</game-status><points>7</points></player><player id="plyr2148"><player-name>Sebastian Janikowski, Oak&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70517&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 20-30</game-status><points>1</points></player><player id="plyr3642"><player-name>Randy McMichael, Mia&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70407&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 34-10</game-status><points>11</points></player><player id="plyr2299"><player-name>Marc Bulger, StL&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70125&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 25-28</game-status><points>22</points></player><player id="plyr60011"><player-name>Colts D/ST, Ind&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>W 24-7</game-status><points>21</points></player><player id="plyr1966"><player-name>Donald Driver, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>L 3-17</game-status><points>4</points></player><player id="plyr5549"><player-name>Steven Jackson, StL&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70225&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 25-28</game-status><points>7</points></player><player id="plyr1757"><player-name>Torry Holt, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 25-28</game-status><points>14</points></player></players></team></game>
+<game season="2005" scoringPeriod="1" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 19-42</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr3549">
+            <player-slot/>
+            <player-name>Daniel Graham, NE TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 25-28</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 9-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 23-20</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 14-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 20-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 25-28</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 24-7</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 25-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 25-28</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2014.6.1.xml"><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70113&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 31-28</game-status><points>27</points></player><player id="plyr12514"><player-name>LeSean McCoy, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 22-37</game-status><points>16</points></player><player id="plyr16889"><player-name>Andre Williams, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70221&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 0-27</game-status><points>5</points></player><player id="plyr13215"><player-name>Dez Bryant, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>W 30-23</game-status><points>6</points></player><player id="plyr12649"><player-name>Julian Edelman, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 37-22</game-status><points>10</points></player><player id="plyr14901"><player-name>Dwayne Allen, Ind&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70434&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>W 33-28</game-status><points>4</points></player><player id="plyr60026"><player-name>Seahawks D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71606&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 23-30</game-status><points>9</points></player><player id="plyr15683"><player-name>Justin Tucker, Bal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70527&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>W 48-17</game-status><points>14</points></player></players></team><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr9597"><player-name>Jay Cutler, Chi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70101&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>W 27-13</game-status><points>23</points></player><player id="plyr10693"><player-name>Ahmad Bradshaw, Ind&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>W 33-28</game-status><points>11</points></player><player id="plyr15893"><player-name>Andre Ellington, Ari&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70228&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Wsh&lt;/a&gt;</link><opponent>Wsh</opponent><game-status>W 30-20</game-status><points>8</points></player><player id="plyr14924"><player-name>T.Y. Hilton, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70334&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>W 33-28</game-status><points>32</points></player><player id="plyr13553"><player-name>Victor Cruz, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 0-27</game-status><points>1</points></player><player id="plyr12537"><player-name>Jared Cook, StL&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>L 17-31</game-status><points>7</points></player><player id="plyr60004"><player-name>Bengals D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71629&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>T 37-37</game-status><points>-5</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70501&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>W 27-13</game-status><points>5</points></player></players></team></game>
+<game season="2014" scoringPeriod="6" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16889">
+            <player-slot/>
+            <player-name>Andre Williams, NYG RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 0-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 33-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 30-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 23-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-28</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 48-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 37-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 22-37</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-13</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 17-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 0-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, Ind RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 33-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>T 37-37</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 30-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 33-28</game-status>
+            <points>32</points>
+         </player>
+      </players>
+   </team>
+</game>

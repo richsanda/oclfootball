@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2011.6.8.xml"><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr11256"><player-name>Felix Jones, Dal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 16-20</game-status><points>2</points></player><player id="plyr11458"><player-name>Steve Johnson, Buf&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 24-27</game-status><points>9</points></player><player id="plyr10693"><player-name>Ahmad Bradshaw, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 27-24</game-status><points>32</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 39-10</game-status><points>15</points></player><player id="plyr5941"><player-name>Wes Welker, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>W 20-16</game-status><points>10</points></player><player id="plyr12482"><player-name>Mark Sanchez, NYJ&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70115&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 24-6</game-status><points>18</points></player><player id="plyr60018"><player-name>Saints D/ST, NO&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71627&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 20-26</game-status><points>-1</points></player><player id="plyr13232"><player-name>Jimmy Graham, NO&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70427&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 20-26</game-status><points>14</points></player></players></team><team><header>Fly with Balloons Box Score</header><players><player id="plyr12549"><player-name>Brandon Pettigrew, Det&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>L 19-25</game-status><points>10</points></player><player id="plyr9838"><player-name>Marques Colston, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 20-26</game-status><points>19</points></player><player id="plyr12586"><player-name>Hakeem Nicks, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 27-24</game-status><points>9</points></player><player id="plyr13981"><player-name>Mark Ingram, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70227&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 20-26</game-status><points>8</points></player><player id="plyr8461"><player-name>Mike Nugent, Cin&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>W 27-17</game-status><points>9</points></player><player id="plyr9646"><player-name>Maurice Jones-Drew, Jac&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70223&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Pit&lt;/a&gt;</link><opponent>@Pit</opponent><game-status>L 13-17</game-status><points>9</points></player><player id="plyr11237"><player-name>Matt Ryan, Atl&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70129&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>W 31-17</game-status><points>16</points></player><player id="plyr60003"><player-name>Bears D/ST, Chi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71616&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 39-10</game-status><points>17</points></player></players></team></game>
+<game season="2011" scoringPeriod="6" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 24-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 27-24</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 39-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 20-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12482">
+            <player-slot/>
+            <player-name>Mark Sanchez, NYJ QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 24-6</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-26</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-26</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr12549">
+            <player-slot/>
+            <player-name>Brandon Pettigrew, Det TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 19-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-26</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8461">
+            <player-slot/>
+            <player-name>Mike Nugent, Cin K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 27-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 13-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 31-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 39-10</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

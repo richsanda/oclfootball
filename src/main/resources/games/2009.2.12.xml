@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2009.2.12.xml"><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr1716"><player-name>David Akers, Phi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70518&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>L 22-48</game-status><points>8</points></player><player id="plyr5606"><player-name>Chris Cooley, Was&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70414&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 9-7</game-status><points>8</points></player><player id="plyr9597"><player-name>Jay Cutler, Chi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70123&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>W 17-14</game-status><points>17</points></player><player id="plyr60009"><player-name>Packers D/ST, GB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71604&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 24-31</game-status><points>8</points></player><player id="plyr2753"><player-name>T.J. Houshmandzadeh, Sea&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 10-23</game-status><points>6</points></player><player id="plyr3590"><player-name>Antwaan Randle El, Was&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70314&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 9-7</game-status><points>3</points></player><player id="plyr11298"><player-name>Kevin Smith, Det&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70216&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>L 13-27</game-status><points>7</points></player><player id="plyr11329"><player-name>Mario Manningham, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>W 33-31</game-status><points>23</points></player></players></team><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr11258"><player-name>Chris Johnson, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>L 31-34</game-status><points>53</points></player><player id="plyr5538"><player-name>Lee Evans, Buf&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 33-20</game-status><points>9</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70119&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>L 31-33</game-status><points>9</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 34-31</game-status><points>30</points></player><player id="plyr1328"><player-name>Ryan Longwell, Min&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70508&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 27-13</game-status><points>10</points></player><player id="plyr10452"><player-name>Adrian Peterson, Min&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 27-13</game-status><points>15</points></player><player id="plyr10605"><player-name>Brent Celek, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70418&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>L 22-48</game-status><points>12</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71620&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>L 9-16</game-status><points>5</points></player></players></team></game>
+<game season="2009" scoringPeriod="2" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 22-48</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 9-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 17-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 24-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Sea WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 10-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3590">
+            <player-slot/>
+            <player-name>Antwaan Randle El, Was WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 9-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11329">
+            <player-slot/>
+            <player-name>Mario Manningham, NYG WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-31</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 31-34</game-status>
+            <points>53</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 31-33</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-31</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 22-48</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 9-16</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

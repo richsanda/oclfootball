@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2007.8.10.xml"><team><header>Cambridge Argonauts Box Score</header><players><player id="plyr3542"><player-name>Jeremy Shockey, NYG&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70415&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>W 13-10</game-status><points>2</points></player><player id="plyr10494"><player-name>Chris Henry, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 13-9</game-status><points>10</points></player><player id="plyr3541"><player-name>Donte' Stallworth, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70328&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Was&lt;/a&gt;</link><opponent>Was</opponent><game-status>W 52-7</game-status><points>4</points></player><player id="plyr112"><player-name>Brett Favre, GB&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70107&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>W 19-13</game-status><points>27</points></player><player id="plyr60021"><player-name>Eagles D/ST, Phi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71616&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>W 23-16</game-status><points>5</points></player><player id="plyr2622"><player-name>Steve Smith, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 7-31</game-status><points>1</points></player><player id="plyr5549"><player-name>Steven Jackson, StL&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70205&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 20-27</game-status><points>10</points></player><player id="plyr726"><player-name>Jeff Wilkins, StL&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70505&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 20-27</game-status><points>10</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr9616"><player-name>Joseph Addai, Ind&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70229&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>W 31-7</game-status><points>30</points></player><player id="plyr1440"><player-name>Phil Dawson, Cle&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70514&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>W 27-20</game-status><points>10</points></player><player id="plyr4614"><player-name>Donald Lee, GB&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70407&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>W 19-13</game-status><points>3</points></player><player id="plyr2299"><player-name>Marc Bulger, StL&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70105&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 20-27</game-status><points>16</points></player><player id="plyr10456"><player-name>Marshawn Lynch, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70220&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 13-3</game-status><points>8</points></player><player id="plyr5603"><player-name>Bernard Berrian, Chi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>L 7-16</game-status><points>4</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71628&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Was&lt;/a&gt;</link><opponent>Was</opponent><game-status>W 52-7</game-status><points>21</points></player><player id="plyr1757"><player-name>Torry Holt, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 20-27</game-status><points>19</points></player></players></team></game>
+<game season="2007" scoringPeriod="8" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 13-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10494">
+            <player-slot/>
+            <player-name>Chris Henry, Ten RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NE WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 52-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 19-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 7-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-27</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-7</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 19-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 13-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 7-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 52-7</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-27</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2009.9.8.xml"><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr5590"><player-name>Nate Kaeding, SD&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70519&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>W 21-20</game-status><points>3</points></player><player id="plyr60025"><player-name>49ers D/ST, SF&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71610&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>L 27-34</game-status><points>-3</points></player><player id="plyr5531"><player-name>Kellen Winslow, TB&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70409&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 38-28</game-status><points>11</points></player><player id="plyr8524"><player-name>Brandon Jacobs, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70224&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>L 20-21</game-status><points>6</points></player><player id="plyr5615"><player-name>Matt Schaub, Hou&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70111&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 17-20</game-status><points>16</points></player><player id="plyr9475"><player-name>Ryan Grant, GB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70227&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 28-38</game-status><points>15</points></player><player id="plyr9705"><player-name>Brandon Marshall, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70323&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>L 10-28</game-status><points>13</points></player><player id="plyr10467"><player-name>Dwayne Bowe, KC&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>L 21-24</game-status><points>7</points></player></players></team><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr11258"><player-name>Chris Johnson, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70225&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 34-27</game-status><points>29</points></player><player id="plyr2553"><player-name>LaDainian Tomlinson, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70219&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>W 21-20</game-status><points>2</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 20-16</game-status><points>18</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70525&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 34-27</game-status><points>10</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 17-20</game-status><points>12</points></player><player id="plyr10605"><player-name>Brent Celek, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70406&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 16-20</game-status><points>9</points></player><player id="plyr1966"><player-name>Donald Driver, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>L 28-38</game-status><points>13</points></player><player id="plyr60018"><player-name>Saints D/ST, NO&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71629&amp;seasonId=2009" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>W 30-20</game-status><points>14</points></player></players></team></game>
+<game season="2009" scoringPeriod="9" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 21-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 27-34</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 20-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 28-38</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-28</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 21-24</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-27</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 21-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 20-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 28-38</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 30-20</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

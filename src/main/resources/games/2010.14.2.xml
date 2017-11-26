@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2010.14.2.xml"><team><header>Kidani Village Okapi Box Score</header><players><player id="plyr11788"><player-name>Danny Woodhead, NE&#xA0;WR, RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70303&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Chi&lt;/a&gt;</link><opponent>@Chi</opponent><game-status>W 36-7</game-status><points>8</points></player><player id="plyr5557"><player-name>Benjamin Watson, Cle&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70402&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 6-13</game-status><points>0</points></player><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70112&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 31-0</game-status><points>13</points></player><player id="plyr60007"><player-name>Broncos D/ST, Den&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71622&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Ari&lt;/a&gt;</link><opponent>@Ari</opponent><game-status>L 13-43</game-status><points>-5</points></player><player id="plyr11658"><player-name>Mike Tolbert, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 31-0</game-status><points>13</points></player><player id="plyr5528"><player-name>Larry Fitzgerald, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 43-13</game-status><points>7</points></player><player id="plyr11543"><player-name>Garrett Hartley, NO&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70514&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 31-13</game-status><points>8</points></player><player id="plyr11678"><player-name>Davone Bess, Mia&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70320&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 10-6</game-status><points>0</points></player></players></team><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr5536"><player-name>Ben Roethlisberger, Pit&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70104&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>W 23-7</game-status><points>12</points></player><player id="plyr11258"><player-name>Chris Johnson, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 28-30</game-status><points>25</points></player><player id="plyr9592"><player-name>Vernon Davis, SF&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70426&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>W 40-21</game-status><points>15</points></player><player id="plyr11283"><player-name>DeSean Jackson, Phi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>W 30-27</game-status><points>33</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 28-34</game-status><points>30</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71604&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>W 23-7</game-status><points>25</points></player><player id="plyr10452"><player-name>Adrian Peterson, Min&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70219&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>L 3-21</game-status><points>2</points></player><player id="plyr11688"><player-name>Dan Carpenter, Mia&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70520&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 10-6</game-status><points>5</points></player></players></team></game>
+<game season="2010" scoringPeriod="14" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, NE WR, RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 36-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, Cle TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 6-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-0</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-43</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr11658">
+            <player-slot/>
+            <player-name>Mike Tolbert, SD RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-0</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 43-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, NO K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11678">
+            <player-slot/>
+            <player-name>Davone Bess, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-6</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 23-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 28-30</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 40-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 30-27</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 28-34</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 23-7</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 3-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-6</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2011.12.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70309&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>L 15-27</game-status><points>10</points></player><player id="plyr60034"><player-name>Texans D/ST, Hou&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71630&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 20-13</game-status><points>13</points></player><player id="plyr13215"><player-name>Dez Bryant, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70315&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 20-19</game-status><points>3</points></player><player id="plyr4527"><player-name>Jason Witten, Dal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70415&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 20-19</game-status><points>4</points></player><player id="plyr5941"><player-name>Wes Welker, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 38-20</game-status><points>27</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 38-20</game-status><points>32</points></player><player id="plyr10621"><player-name>Nick Folk, NYJ&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70502&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 28-24</game-status><points>4</points></player><player id="plyr12514"><player-name>LeSean McCoy, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 20-38</game-status><points>12</points></player></players></team><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr11258"><player-name>Chris Johnson, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70227&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 23-17</game-status><points>19</points></player><player id="plyr1716"><player-name>David Akers, SF&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70533&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 6-16</game-status><points>9</points></player><player id="plyr5526"><player-name>Eli Manning, NYG&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70118&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@NO&lt;/a&gt;</link><opponent>@NO</opponent><game-status>L 24-49</game-status><points>28</points></player><player id="plyr60009"><player-name>Packers D/ST, GB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71608&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 27-15</game-status><points>8</points></player><player id="plyr5362"><player-name>Antonio Gates, SD&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70407&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>L 13-16</game-status><points>10</points></player><player id="plyr2622"><player-name>Steve Smith, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70311&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 27-19</game-status><points>6</points></player><player id="plyr8475"><player-name>Vincent Jackson, SD&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>L 13-16</game-status><points>2</points></player><player id="plyr8419"><player-name>Cedric Benson, Cin&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70205&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 23-20</game-status><points>20</points></player></players></team></game>
+<game season="2011" scoringPeriod="12" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 15-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 20-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-19</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-20</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 28-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-38</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, SF K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 6-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-49</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-20</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

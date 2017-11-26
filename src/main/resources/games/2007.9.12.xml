@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2007.9.12.xml"><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr5606"><player-name>Chris Cooley, Was&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70420&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 23-20</game-status><points>5</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 38-17</game-status><points>26</points></player><player id="plyr2753"><player-name>T.J. Houshmandzadeh, Cin&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 21-33</game-status><points>10</points></player><player id="plyr2649"><player-name>Rudi Johnson, Cin&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 21-33</game-status><points>1</points></player><player id="plyr4680"><player-name>Josh Brown, Sea&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70505&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>L 30-33</game-status><points>12</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>W 38-7</game-status><points>18</points></player><player id="plyr2136"><player-name>Jamal Lewis, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70226&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>W 33-30</game-status><points>33</points></player><player id="plyr4532"><player-name>Kevin Curtis, Phi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 17-38</game-status><points>5</points></player></players></team><team><header>Apponequet Justins Box Score</header><players><player id="plyr9684"><player-name>Owen Daniels, Hou&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70413&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 24-17</game-status><points>4</points></player><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 44-7</game-status><points>4</points></player><player id="plyr2553"><player-name>LaDainian Tomlinson, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70216&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 17-35</game-status><points>13</points></player><player id="plyr8627"><player-name>Derek Anderson, Cle&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70126&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>W 33-30</game-status><points>18</points></player><player id="plyr60006"><player-name>Cowboys D/ST, Dal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71621&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 38-17</game-status><points>10</points></player><player id="plyr4564"><player-name>Shaun McDonald, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 44-7</game-status><points>15</points></player><player id="plyr3579"><player-name>Clinton Portis, Was&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70220&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 23-20</game-status><points>27</points></player><player id="plyr9704"><player-name>Stephen Gostkowski, NE&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 24-20</game-status><points>6</points></player></players></team></game>
+<game season="2007" scoringPeriod="9" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 21-33</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 21-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 38-7</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-38</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 44-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-35</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 44-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2006.3.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr924"><player-name>Keyshawn Johnson, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>W 26-24</game-status><points>21</points></player><player id="plyr2583"><player-name>Alge Crumpler, Atl&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70418&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@NO&lt;/a&gt;</link><opponent>@NO</opponent><game-status>L 3-23</game-status><points>4</points></player><player id="plyr60026"><player-name>Seahawks D/ST, Sea&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71619&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>W 42-30</game-status><points>5</points></player><player id="plyr2578"><player-name>Reggie Wayne, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Jac&lt;/a&gt;</link><opponent>Jac</opponent><game-status>W 21-14</game-status><points>8</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70107&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>L 7-17</game-status><points>18</points></player><player id="plyr453"><player-name>Jason Elam, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70517&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>W 17-7</game-status><points>5</points></player><player id="plyr5880"><player-name>Willie Parker, Pit&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70204&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 20-28</game-status><points>28</points></player><player id="plyr8417"><player-name>Ronnie Brown, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70210&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 13-10</game-status><points>10</points></player></players></team><team><header>Turd Fergusons Box Score</header><players><player id="plyr1716"><player-name>David Akers, Phi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70525&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 38-24</game-status><points>6</points></player><player id="plyr1430"><player-name>Fred Taylor, Jac&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 14-21</game-status><points>7</points></player><player id="plyr751"><player-name>Joey Galloway, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70329&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>L 24-26</game-status><points>6</points></player><player id="plyr733"><player-name>Steve McNair, Bal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70105&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 15-14</game-status><points>14</points></player><player id="plyr1218"><player-name>Tiki Barber, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70226&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>L 30-42</game-status><points>7</points></player><player id="plyr60021"><player-name>Eagles D/ST, Phi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 38-24</game-status><points>12</points></player><player id="plyr5528"><player-name>Larry Fitzgerald, Ari&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70314&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>L 14-16</game-status><points>12</points></player><player id="plyr4519"><player-name>L.J. Smith, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 38-24</game-status><points>7</points></player></players></team></game>
+<game season="2006" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr924">
+            <player-slot/>
+            <player-name>Keyshawn Johnson, Car WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 26-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 3-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 42-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 21-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 17-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 20-28</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 14-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 24-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr733">
+            <player-slot/>
+            <player-name>Steve McNair, Bal QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 15-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 30-42</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 14-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

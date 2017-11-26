@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2007.4.7.xml"><team><header>Apponequet Justins Box Score</header><players><player id="plyr9684"><player-name>Owen Daniels, Hou&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70401&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>L 16-26</game-status><points>6</points></player><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70303&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 37-27</game-status><points>0</points></player><player id="plyr2553"><player-name>LaDainian Tomlinson, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>L 16-30</game-status><points>23</points></player><player id="plyr1428"><player-name>Peyton Manning, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70107&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 38-20</game-status><points>25</points></player><player id="plyr5568"><player-name>Julius Jones, Dal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70214&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 35-7</game-status><points>12</points></player><player id="plyr4939"><player-name>Mike Furrey, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70303&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 37-27</game-status><points>9</points></player><player id="plyr60006"><player-name>Cowboys D/ST, Dal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71614&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 35-7</game-status><points>9</points></player><player id="plyr9704"><player-name>Stephen Gostkowski, NE&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70504&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>W 34-13</game-status><points>10</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr9616"><player-name>Joseph Addai, Ind&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 38-20</game-status><points>22</points></player><player id="plyr2299"><player-name>Marc Bulger, StL&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70106&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-35</game-status><points>2</points></player><player id="plyr2579"><player-name>Todd Heap, Bal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70405&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>L 13-27</game-status><points>3</points></player><player id="plyr10456"><player-name>Marshawn Lynch, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70220&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 17-14</game-status><points>13</points></player><player id="plyr5603"><player-name>Bernard Berrian, Chi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>L 27-37</game-status><points>9</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71604&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>W 34-13</game-status><points>9</points></player><player id="plyr1757"><player-name>Torry Holt, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-35</game-status><points>5</points></player><player id="plyr726"><player-name>Jeff Wilkins, StL&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70506&amp;seasonId=2007" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-35</game-status><points>-1</points></player></players></team></game>
+<game season="2007" scoringPeriod="4" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 16-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4939">
+            <player-slot/>
+            <player-name>Mike Furrey, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 17-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Chi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 27-37</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

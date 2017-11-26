@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2010.6.6.xml"><team><header>The Franchise Box Score</header><players><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70127&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@TB&lt;/a&gt;</link><opponent>@TB</opponent><game-status>W 31-6</game-status><points>24</points></player><player id="plyr2148"><player-name>Sebastian Janikowski, Oak&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70525&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 9-17</game-status><points>10</points></player><player id="plyr11256"><player-name>Felix Jones, Dal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70216&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 21-24</game-status><points>9</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 17-31</game-status><points>8</points></player><player id="plyr4482"><player-name>Dallas Clark, Ind&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70428&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Was&lt;/a&gt;</link><opponent>@Was</opponent><game-status>W 27-24</game-status><points>5</points></player><player id="plyr3561"><player-name>Jabar Gaffney, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70320&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>L 20-24</game-status><points>8</points></player><player id="plyr11754"><player-name>BenJarvus Green-Ellis, NE&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70233&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>W 23-20</game-status><points>8</points></player><player id="plyr60003"><player-name>Bears D/ST, Chi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71626&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>L 20-23</game-status><points>5</points></player></players></team><team><header>Kidani Village Okapi Box Score</header><players><player id="plyr60013"><player-name>Raiders D/ST, Oak&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 9-17</game-status><points>3</points></player><player id="plyr5590"><player-name>Nate Kaeding, SD&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70514&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>L 17-20</game-status><points>5</points></player><player id="plyr11307"><player-name>Jamaal Charles, KC&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 31-35</game-status><points>11</points></player><player id="plyr13204"><player-name>Ryan Mathews, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70214&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>L 17-20</game-status><points>7</points></player><player id="plyr11674"><player-name>Danny Amendola, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70324&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>W 20-17</game-status><points>1</points></player><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70114&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>L 17-20</game-status><points>11</points></player><player id="plyr10482"><player-name>Zach Miller, Oak&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 9-17</game-status><points>4</points></player><player id="plyr5532"><player-name>Roy Williams, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70316&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 21-24</game-status><points>14</points></player></players></team></game>
+<game season="2010" scoringPeriod="6" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-6</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3561">
+            <player-slot/>
+            <player-name>Jabar Gaffney, Den WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, NE RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 31-35</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, StL WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 20-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

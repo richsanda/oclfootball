@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2008.12.9.xml"><team><header>Turd Fergusons Box Score</header><players><player id="plyr10636"><player-name>Mason Crosby, GB&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70518&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NO&lt;/a&gt;</link><opponent>@NO</opponent><game-status>L 29-51</game-status><points>3</points></player><player id="plyr2553"><player-name>LaDainian Tomlinson, SD&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;Ind&lt;/a&gt;</link><opponent>Ind</opponent><game-status>L 20-23</game-status><points>11</points></player><player id="plyr1428"><player-name>Peyton Manning, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70124&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 23-20</game-status><points>16</points></player><player id="plyr11283"><player-name>DeSean Jackson, Phi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 7-36</game-status><points>5</points></player><player id="plyr60020"><player-name>Jets D/ST, NYJ&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71610&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 34-13</game-status><points>7</points></player><player id="plyr11264"><player-name>Dustin Keller, NYJ&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70410&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 34-13</game-status><points>4</points></player><player id="plyr2139"><player-name>Plaxico Burress, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70322&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Ari&lt;/a&gt;</link><opponent>@Ari</opponent><game-status>W 37-29</game-status><points>0</points></player><player id="plyr2571"><player-name>Deuce McAllister, NO&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70209&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 51-29</game-status><points>6</points></player></players></team><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr2564"><player-name>Santana Moss, Was&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>W 20-17</game-status><points>7</points></player><player id="plyr11258"><player-name>Chris Johnson, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70220&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>L 13-34</game-status><points>3</points></player><player id="plyr139"><player-name>John Kasay, Car&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70501&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Atl&lt;/a&gt;</link><opponent>@Atl</opponent><game-status>L 28-45</game-status><points>8</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70125&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>W 35-22</game-status><points>27</points></player><player id="plyr60009"><player-name>Packers D/ST, GB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71618&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@NO&lt;/a&gt;</link><opponent>@NO</opponent><game-status>L 29-51</game-status><points>-7</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 16-6</game-status><points>13</points></player><player id="plyr4482"><player-name>Dallas Clark, Ind&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70424&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 23-20</game-status><points>3</points></player><player id="plyr10452"><player-name>Adrian Peterson, Min&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70230&amp;seasonId=2008" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 30-12</game-status><points>14</points></player></players></team></game>
+<game season="2008" scoringPeriod="12" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 29-51</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-36</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 51-29</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 20-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 28-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 35-22</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 29-51</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 16-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 30-12</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

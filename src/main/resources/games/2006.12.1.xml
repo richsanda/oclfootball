@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2006.12.1.xml"><team><header>Jeff Knight All-Stars Box Score</header><players><player id="plyr3504"><player-name>Shayne Graham, Cin&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70505&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 30-0</game-status><points>4</points></player><player id="plyr5557"><player-name>Ben Watson, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70403&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>W 17-13</game-status><points>14</points></player><player id="plyr2578"><player-name>Reggie Wayne, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 45-21</game-status><points>13</points></player><player id="plyr2211"><player-name>Darrell Jackson, Sea&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70309&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 34-24</game-status><points>8</points></player><player id="plyr2549"><player-name>Michael Vick, Atl&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70118&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>L 13-31</game-status><points>21</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 0-27</game-status><points>-1</points></player><player id="plyr8417"><player-name>Ronnie Brown, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 27-10</game-status><points>6</points></player><player id="plyr4485"><player-name>Larry Johnson, KC&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 19-10</game-status><points>23</points></player></players></team><team><header>Magoun Square Ruffians Box Score</header><players><player id="plyr60033"><player-name>Ravens D/ST, Bal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71623&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>W 27-0</game-status><points>31</points></player><player id="plyr2300"><player-name>Neil Rackers, Ari&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 26-31</game-status><points>9</points></player><player id="plyr8420"><player-name>Carnell Williams, TB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70206&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 10-38</game-status><points>7</points></player><player id="plyr3548"><player-name>Javon Walker, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70312&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 10-19</game-status><points>5</points></player><player id="plyr1231"><player-name>Tony Gonzalez, KC&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70407&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 19-10</game-status><points>3</points></player><player id="plyr4459"><player-name>Carson Palmer, Cin&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70105&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Cle&lt;/a&gt;</link><opponent>@Cle</opponent><game-status>W 30-0</game-status><points>21</points></player><player id="plyr2139"><player-name>Plaxico Burress, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>L 21-24</game-status><points>10</points></player><player id="plyr8418"><player-name>Braylon Edwards, Cle&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70304&amp;seasonId=2006" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 0-30</game-status><points>2</points></player></players></team></game>
+<game season="2006" scoringPeriod="12" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 30-0</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Ben Watson, NE TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 17-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 45-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2211">
+            <player-slot/>
+            <player-name>Darrell Jackson, Sea WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 13-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 0-27</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 19-10</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 27-0</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 26-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Carnell Williams, TB RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3548">
+            <player-slot/>
+            <player-name>Javon Walker, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 19-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 30-0</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 21-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 0-30</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

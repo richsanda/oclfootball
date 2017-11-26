@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2005.15.2.xml"><team><header>Merrymount Merry Men Box Score</header><players><player id="plyr940"><player-name>Terry Glenn, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70328&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Was&lt;/a&gt;</link><opponent>@Was</opponent><game-status>L 7-35</game-status><points>31</points></player><player id="plyr2898"><player-name>Drew Bennett, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>L 24-28</game-status><points>22</points></player><player id="plyr60030"><player-name>Jaguars D/ST, Jac&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>W 10-9</game-status><points>10</points></player><player id="plyr5526"><player-name>Eli Manning, NYG&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70112&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 27-17</game-status><points>25</points></player><player id="plyr2649"><player-name>Rudi Johnson, Cin&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 41-17</game-status><points>51</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70526&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Sea&lt;/a&gt;</link><opponent>Sea</opponent><game-status>L 24-28</game-status><points>12</points></player><player id="plyr9387"><player-name>Samkon Gado, GB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70233&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 3-48</game-status><points>31</points></player><player id="plyr4519"><player-name>L.J. Smith, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70414&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>W 17-16</game-status><points>2</points></player></players></team><team><header>Bridgewater Raritan Box Score</header><players><player id="plyr5590"><player-name>Nate Kaeding, SD&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 26-17</game-status><points>19</points></player><player id="plyr2580"><player-name>Drew Brees, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70111&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 26-17</game-status><points>30</points></player><player id="plyr939"><player-name>Marvin Harrison, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70324&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>L 17-26</game-status><points>44</points></player><player id="plyr60026"><player-name>Seahawks D/ST, Sea&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71610&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 28-24</game-status><points>14</points></player><player id="plyr1231"><player-name>Tony Gonzalez, KC&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70419&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 17-27</game-status><points>14</points></player><player id="plyr2575"><player-name>Michael Bennett, Min&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70223&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>L 3-18</game-status><points>15</points></player><player id="plyr3591"><player-name>Antonio Bryant, Cle&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 9-7</game-status><points>12</points></player><player id="plyr2212"><player-name>Reuben Droughns, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 9-7</game-status><points>15</points></player></players></team></game>
+<game season="2005" scoringPeriod="15" team="2">
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-35</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 24-28</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 27-17</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 41-17</game-status>
+            <points>51</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 24-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9387">
+            <player-slot/>
+            <player-name>Samkon Gado, GB RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-48</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 17-16</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, SD QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>44</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2575">
+            <player-slot/>
+            <player-name>Michael Bennett, Min RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 3-18</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, Cle WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 9-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 9-7</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

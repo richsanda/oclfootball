@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2012.14.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr60014"><player-name>Rams D/ST, StL&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71602&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 15-12</game-status><points>13</points></player><player id="plyr14032"><player-name>Torrey Smith, Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70328&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Wsh&lt;/a&gt;</link><opponent>@Wsh</opponent><game-status>L 28-31</game-status><points>2</points></player><player id="plyr10475"><player-name>Greg Olsen, Car&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70401&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>W 30-20</game-status><points>11</points></player><player id="plyr12516"><player-name>Knowshon Moreno, Den&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>23</points></player><player id="plyr11267"><player-name>Donnie Avery, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 27-23</game-status><points>3</points></player><player id="plyr2330"><player-name>Tom Brady, NE&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70134&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>W 42-14</game-status><points>29</points></player><player id="plyr3413"><player-name>Lawrence Tynes, NYG&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70518&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>W 52-27</game-status><points>8</points></player><player id="plyr12500"><player-name>Shonn Greene, NYJ&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70230&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 17-10</game-status><points>13</points></player></players></team><team><header>Fly with Balloons Box Score</header><players><player id="plyr8444"><player-name>Heath Miller, Pit&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70424&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;SD&lt;/a&gt;</link><opponent>SD</opponent><game-status>L 24-34</game-status><points>6</points></player><player id="plyr14884"><player-name>Trent Richardson, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 30-7</game-status><points>16</points></player><player id="plyr1428"><player-name>Peyton Manning, Den&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70113&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>16</points></player><player id="plyr60020"><player-name>Jets D/ST, NYJ&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71630&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Jac&lt;/a&gt;</link><opponent>@Jac</opponent><game-status>W 17-10</game-status><points>11</points></player><player id="plyr12586"><player-name>Hakeem Nicks, NYG&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70318&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>W 52-27</game-status><points>12</points></player><player id="plyr5549"><player-name>Steven Jackson, StL&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 15-12</game-status><points>12</points></player><player id="plyr15683"><player-name>Justin Tucker, Bal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70528&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Wsh&lt;/a&gt;</link><opponent>@Wsh</opponent><game-status>L 28-31</game-status><points>4</points></player><player id="plyr13216"><player-name>Demaryius Thomas, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 26-13</game-status><points>8</points></player></players></team></game>
+<game season="2012" scoringPeriod="14" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-12</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 28-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr11267">
+            <player-slot/>
+            <player-name>Donnie Avery, Ind WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-14</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12500">
+            <player-slot/>
+            <player-name>Shonn Greene, NYJ RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 17-10</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 24-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 30-7</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 17-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-12</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 28-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

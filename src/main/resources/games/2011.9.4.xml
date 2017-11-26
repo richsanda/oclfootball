@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2011.9.4.xml"><team><header>Magoun Square Ruffians Box Score</header><players><player id="plyr9684"><player-name>Owen Daniels, Hou&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70405&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 30-12</game-status><points>3</points></player><player id="plyr5679"><player-name>Michael Turner, Atl&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 31-7</game-status><points>13</points></player><player id="plyr10195"><player-name>Fred Jackson, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70220&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>L 11-27</game-status><points>9</points></player><player id="plyr9235"><player-name>Rob Bironas, Ten&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70504&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 17-24</game-status><points>6</points></player><player id="plyr60020"><player-name>Jets D/ST, NYJ&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71602&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 27-11</game-status><points>10</points></player><player id="plyr2549"><player-name>Michael Vick, Phi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70103&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Chi&lt;/a&gt;</link><opponent>Chi</opponent><game-status>L 24-30</game-status><points>9</points></player><player id="plyr12601"><player-name>Mike Wallace, Pit&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>L 20-23</game-status><points>10</points></player><player id="plyr11270"><player-name>Jordy Nelson, GB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70324&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 45-38</game-status><points>18</points></player></players></team><team><header>Fly with Balloons Box Score</header><players><player id="plyr14007"><player-name>Lance Kendricks, StL&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70422&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ari&lt;/a&gt;</link><opponent>@Ari</opponent><game-status>L 13-19</game-status><points>0</points></player><player id="plyr4333"><player-name>Matt Bryant, Atl&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70511&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 31-7</game-status><points>7</points></player><player id="plyr10544"><player-name>Michael Bush, Oak&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>L 24-38</game-status><points>18</points></player><player id="plyr9838"><player-name>Marques Colston, NO&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70327&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 27-16</game-status><points>5</points></player><player id="plyr12517"><player-name>Chris Ogbonnaya, Cle&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70234&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 12-30</game-status><points>1</points></player><player id="plyr12570"><player-name>Darrius Heyward-Bey, Oak&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>L 24-38</game-status><points>0</points></player><player id="plyr11237"><player-name>Matt Ryan, Atl&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70111&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 31-7</game-status><points>25</points></player><player id="plyr60003"><player-name>Bears D/ST, Chi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71621&amp;seasonId=2011" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 30-24</game-status><points>4</points></player></players></team></game>
+<game season="2011" scoringPeriod="9" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-12</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 11-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 17-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 27-11</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Phi QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 24-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 20-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 45-38</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14007">
+            <player-slot/>
+            <player-name>Lance Kendricks, StL TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10544">
+            <player-slot/>
+            <player-name>Michael Bush, Oak RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 24-38</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12517">
+            <player-slot/>
+            <player-name>Chris Ogbonnaya, Cle RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12570">
+            <player-slot/>
+            <player-name>Darrius Heyward-Bey, Oak WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 24-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

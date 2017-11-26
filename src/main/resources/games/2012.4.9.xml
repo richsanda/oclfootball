@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2012.4.9.xml"><team><header>Christ Punchers Box Score</header><players><player id="plyr3504"><player-name>Shayne Graham, Hou&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70510&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 38-14</game-status><points>8</points></player><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70316&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>L 13-20</game-status><points>5</points></player><player id="plyr13231"><player-name>Dennis Pitta, Bal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70405&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 23-16</game-status><points>0</points></player><player id="plyr5526"><player-name>Eli Manning, NYG&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 17-19</game-status><points>20</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70329&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>W 30-28</game-status><points>32</points></player><player id="plyr9646"><player-name>Maurice Jones-Drew, Jac&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70204&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Cin&lt;/a&gt;</link><opponent>Cin</opponent><game-status>L 10-27</game-status><points>7</points></player><player id="plyr11238"><player-name>Darren McFadden, Oak&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>L 6-37</game-status><points>3</points></player><player id="plyr60019"><player-name>Giants D/ST, NYG&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71621&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 17-19</game-status><points>2</points></player></players></team><team><header>Shapley Kings Box Score</header><players><player id="plyr11122"><player-name>Matt Prater, Den&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70513&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 37-6</game-status><points>16</points></player><player id="plyr60033"><player-name>Ravens D/ST, Bal&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71605&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 23-16</game-status><points>12</points></player><player id="plyr11289"><player-name>Ray Rice, Bal&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70205&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 23-16</game-status><points>8</points></player><player id="plyr9307"><player-name>Nate Washington, Ten&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70334&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 14-38</game-status><points>4</points></player><player id="plyr9592"><player-name>Vernon Davis, SF&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70420&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 34-0</game-status><points>2</points></player><player id="plyr4461"><player-name>Andre Johnson, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70310&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 38-14</game-status><points>5</points></player><player id="plyr9611"><player-name>Santonio Holmes, NYJ&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;SF&lt;/a&gt;</link><opponent>SF</opponent><game-status>L 0-34</game-status><points>0</points></player><player id="plyr8439"><player-name>Aaron Rodgers, GB&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70118&amp;seasonId=2012" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>W 28-27</game-status><points>29</points></player></players></team></game>
+<game season="2012" scoringPeriod="4" team="9">
+   <team>
+      <header>Christ Punchers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Hou K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 38-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot/>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-19</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 30-28</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 6-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-19</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 37-6</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9307">
+            <player-slot/>
+            <player-name>Nate Washington, Ten WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 14-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-0</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 38-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, NYJ WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 0-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 28-27</game-status>
+            <points>29</points>
+         </player>
+      </players>
+   </team>
+</game>

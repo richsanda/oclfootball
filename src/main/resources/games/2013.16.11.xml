@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2013.16.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr10195"><player-name>Fred Jackson, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>W 19-0</game-status><points>19</points></player><player id="plyr14032"><player-name>Torrey Smith, Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70317&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 7-41</game-status><points>6</points></player><player id="plyr60024"><player-name>Chargers D/ST, SD&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71613&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 26-13</game-status><points>9</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70521&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 11-54</game-status><points>5</points></player><player id="plyr5529"><player-name>Philip Rivers, SD&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70113&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 26-13</game-status><points>8</points></player><player id="plyr12649"><player-name>Julian Edelman, NE&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>W 41-7</game-status><points>7</points></player><player id="plyr15818"><player-name>Keenan Allen, SD&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>W 26-13</game-status><points>6</points></player><player id="plyr15788"><player-name>Tyler Eifert, Cin&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70416&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 42-14</game-status><points>0</points></player></players></team><team><header>East Cambridge Sunflies Box Score</header><players><player id="plyr9597"><player-name>Jay Cutler, Chi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>L 11-54</game-status><points>13</points></player><player id="plyr60008"><player-name>Lions D/ST, Det&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71619&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>L 20-23</game-status><points>7</points></player><player id="plyr12568"><player-name>Brian Hartline, Mia&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>L 0-19</game-status><points>5</points></player><player id="plyr1231"><player-name>Tony Gonzalez, Atl&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 24-34</game-status><points>12</points></player><player id="plyr15893"><player-name>Andre Ellington, Ari&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70226&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>W 17-10</game-status><points>6</points></player><player id="plyr15807"><player-name>Cordarrelle Patterson, Min&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70304&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Cin&lt;/a&gt;</link><opponent>@Cin</opponent><game-status>L 14-42</game-status><points>11</points></player><player id="plyr15683"><player-name>Justin Tucker, Bal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70517&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>L 7-41</game-status><points>-1</points></player><player id="plyr11439"><player-name>Pierre Garcon, Wsh&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>L 23-24</game-status><points>22</points></player></players></team></game>
+<game season="2013" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 19-0</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 7-41</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 11-54</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 41-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 26-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 42-14</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 11-54</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 20-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12568">
+            <player-slot/>
+            <player-name>Brian Hartline, Mia WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 0-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 24-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 17-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15807">
+            <player-slot/>
+            <player-name>Cordarrelle Patterson, Min WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-42</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 7-41</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 23-24</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2005.8.4.xml"><team><header>Apponequet Lakers Box Score</header><players><player id="plyr3504"><player-name>Shayne Graham, Cin&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70509&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>W 21-14</game-status><points>3</points></player><player id="plyr5606"><player-name>Chris Cooley, Was&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70419&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NYG&lt;/a&gt;</link><opponent>@NYG</opponent><game-status>L 0-36</game-status><points>-1</points></player><player id="plyr866"><player-name>Rod Smith, Den&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70321&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 49-21</game-status><points>13</points></player><player id="plyr2320"><player-name>Mike Anderson, Den&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70221&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 49-21</game-status><points>21</points></player><player id="plyr278"><player-name>Jimmy Smith, Jac&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70314&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@StL&lt;/a&gt;</link><opponent>@StL</opponent><game-status>L 21-24</game-status><points>2</points></player><player id="plyr60027"><player-name>Buccaneers D/ST, TB&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 10-15</game-status><points>1</points></player><player id="plyr276"><player-name>Keenan McCardell, SD&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70312&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>W 28-20</game-status><points>7</points></player><player id="plyr1177"><player-name>Jake Plummer, Den&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70121&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 49-21</game-status><points>34</points></player></players></team><team><header>Patrick Bugbee Box Score</header><players><player id="plyr3542"><player-name>Jeremy Shockey, NYG&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70428&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Was&lt;/a&gt;</link><opponent>Was</opponent><game-status>W 36-0</game-status><points>8</points></player><player id="plyr139"><player-name>John Kasay, Car&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 38-13</game-status><points>9</points></player><player id="plyr751"><player-name>Joey Galloway, TB&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 10-15</game-status><points>24</points></player><player id="plyr936"><player-name>Muhsin Muhammad, Chi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 19-13</game-status><points>10</points></player><player id="plyr734"><player-name>Kerry Collins, Oak&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70110&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Ten&lt;/a&gt;</link><opponent>@Ten</opponent><game-status>W 34-25</game-status><points>21</points></player><player id="plyr60023"><player-name>Steelers D/ST, Pit&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;Bal&lt;/a&gt;</link><opponent>Bal</opponent><game-status>W 20-19</game-status><points>8</points></player><player id="plyr4481"><player-name>Willis McGahee, Buf&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 16-21</game-status><points>17</points></player><player id="plyr3619"><player-name>Brian Westbrook, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2005" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>L 21-49</game-status><points>15</points></player></players></team></game>
+<game season="2005" scoringPeriod="8" team="4">
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 21-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 0-36</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr866">
+            <player-slot/>
+            <player-name>Rod Smith, Den WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 49-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 49-21</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 10-15</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 49-21</game-status>
+            <points>34</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-0</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 10-15</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 19-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-25</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 20-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-21</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-49</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

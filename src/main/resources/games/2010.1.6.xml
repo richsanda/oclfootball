@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2010.1.6.xml"><team><header>The Franchise Box Score</header><players><player id="plyr5590"><player-name>Nate Kaeding, SD&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70512&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 14-21</game-status><points>2</points></player><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70116&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 14-9</game-status><points>13</points></player><player id="plyr60025"><player-name>49ers D/ST, SF&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71626&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>L 6-31</game-status><points>-1</points></player><player id="plyr11325"><player-name>Jermichael Finley, GB&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70421&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Phi&lt;/a&gt;</link><opponent>@Phi</opponent><game-status>W 27-20</game-status><points>4</points></player><player id="plyr8442"><player-name>Roddy White, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70323&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Pit&lt;/a&gt;</link><opponent>@Pit</opponent><game-status>L 9-15</game-status><points>13</points></player><player id="plyr4482"><player-name>Dallas Clark, Ind&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70434&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 24-34</game-status><points>14</points></player><player id="plyr1756"><player-name>Ricky Williams, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70202&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Buf&lt;/a&gt;</link><opponent>@Buf</opponent><game-status>W 15-10</game-status><points>6</points></player><player id="plyr9731"><player-name>Jerome Harrison, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70209&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>L 20-27</game-status><points>5</points></player></players></team><team><header>Fly with Balloons Box Score</header><players><player id="plyr12563"><player-name>Michael Crabtree, SF&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70326&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Sea&lt;/a&gt;</link><opponent>@Sea</opponent><game-status>L 6-31</game-status><points>1</points></player><player id="plyr11278"><player-name>Matt Forte, Chi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70208&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>W 19-14</game-status><points>34</points></player><player id="plyr1428"><player-name>Peyton Manning, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70134&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 24-34</game-status><points>35</points></player><player id="plyr4527"><player-name>Jason Witten, Dal&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70428&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Was&lt;/a&gt;</link><opponent>@Was</opponent><game-status>L 7-13</game-status><points>2</points></player><player id="plyr2578"><player-name>Reggie Wayne, Ind&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70334&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;@Hou&lt;/a&gt;</link><opponent>@Hou</opponent><game-status>L 24-34</game-status><points>15</points></player><player id="plyr60021"><player-name>Eagles D/ST, Phi&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71609&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;GB&lt;/a&gt;</link><opponent>GB</opponent><game-status>L 20-27</game-status><points>6</points></player><player id="plyr9646"><player-name>Maurice Jones-Drew, Jac&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70207&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Den&lt;/a&gt;</link><opponent>Den</opponent><game-status>W 24-17</game-status><points>10</points></player><player id="plyr11543"><player-name>Garrett Hartley, NO&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2010" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>W 14-9</game-status><points>-1</points></player></players></team></game>
+<game season="2010" scoringPeriod="1" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 14-9</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 6-31</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 9-15</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 24-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1756">
+            <player-slot/>
+            <player-name>Ricky Williams, Mia RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9731">
+            <player-slot/>
+            <player-name>Jerome Harrison, Phi RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 20-27</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, SF WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 6-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 19-14</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 24-34</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 24-34</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 20-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 24-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, NO K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 14-9</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

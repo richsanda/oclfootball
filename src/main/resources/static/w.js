@@ -141,7 +141,7 @@ function owner(teamNumber, season) {
             return "justin";
             break;
         case 5:
-            return "rux";
+            return season <= 2016 ? "rux" : "beid";
             break;
         case 6:
             return "rich";
@@ -153,7 +153,7 @@ function owner(teamNumber, season) {
             return "spoth";
             break;
         case 9:
-            return "mike";
+            return season <= 2016 ? "mbug" : "fussti";
             break;
         case 10:
             return "argo";

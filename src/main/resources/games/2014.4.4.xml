@@ -1,2 +1,142 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2014.4.4.xml"><team><header>Magoun Square Ruffians Box Score</header><players><player id="plyr14874"><player-name>Andrew Luck, Ind&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70110&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Ten&lt;/a&gt;</link><opponent>Ten</opponent><game-status>W 41-17</game-status><points>31</points></player><player id="plyr15825"><player-name>Le'Veon Bell, Pit&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70227&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>L 24-27</game-status><points>10</points></player><player id="plyr11307"><player-name>Jamaal Charles, KC&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70217&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>W 41-14</game-status><points>28</points></player><player id="plyr11283"><player-name>DeSean Jackson, Wsh&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70319&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>L 14-45</game-status><points>0</points></player><player id="plyr2622"><player-name>Steve Smith Sr., Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70329&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Car&lt;/a&gt;</link><opponent>Car</opponent><game-status>W 38-10</game-status><points>29</points></player><player id="plyr9684"><player-name>Owen Daniels, Den&#xA0;TE</player-name><link/><opponent/><game-status/><points>4</points></player><player id="plyr60029"><player-name>Panthers D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71633&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 10-38</game-status><points>-7</points></player><player id="plyr10621"><player-name>Nick Folk, NYJ&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70508&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>L 17-24</game-status><points>5</points></player></players></team><team><header>Fenway Gene Hackmans Box Score</header><players><player id="plyr14877"><player-name>Nick Foles, StL&#xA0;QB</player-name><link/><opponent/><game-status/><points>3</points></player><player id="plyr15848"><player-name>Eddie Lacy, GB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70203&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Chi&lt;/a&gt;</link><opponent>@Chi</opponent><game-status>W 38-17</game-status><points>11</points></player><player id="plyr12500"><player-name>Shonn Greene, Ten&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70211&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>L 17-41</game-status><points>1</points></player><player id="plyr16730"><player-name>Kelvin Benjamin, Car&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 10-38</game-status><points>13</points></player><player id="plyr12563"><player-name>Michael Crabtree, Oak&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70315&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Mia&lt;/a&gt;</link><opponent>Mia</opponent><game-status>L 14-38</game-status><points>4</points></player><player id="plyr15835"><player-name>Zach Ertz, Phi&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70425&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 21-26</game-status><points>2</points></player><player id="plyr60028"><player-name>Redskins D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71619&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NYG&lt;/a&gt;</link><opponent>NYG</opponent><game-status>L 14-45</game-status><points>-4</points></player><player id="plyr17173"><player-name>Cody Parkey, Phi&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70525&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 21-26</game-status><points>3</points></player></players></team></game>
+<game season="2014" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Den TE</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>4</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 41-14</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 24-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-45</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 38-10</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 41-17</game-status>
+            <points>31</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-45</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 14-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12500">
+            <player-slot/>
+            <player-name>Shonn Greene, Ten RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-41</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14877">
+            <player-slot/>
+            <player-name>Nick Foles, StL QB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>3</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

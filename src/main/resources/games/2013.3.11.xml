@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2013.3.11.xml"><team><header>Smooth Criminals Box Score</header><players><player id="plyr13197"><player-name>Sam Bradford, StL&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70106&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-31</game-status><points>13</points></player><player id="plyr14032"><player-name>Torrey Smith, Bal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70334&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Hou&lt;/a&gt;</link><opponent>Hou</opponent><game-status>W 30-9</game-status><points>9</points></player><player id="plyr14054"><player-name>Kyle Rudolph, Min&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70405&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 27-31</game-status><points>2</points></player><player id="plyr15786"><player-name>Tavon Austin, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-31</game-status><points>3</points></player><player id="plyr15058"><player-name>Blair Walsh, Min&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70505&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>L 27-31</game-status><points>10</points></player><player id="plyr13982"><player-name>Julio Jones, Atl&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70315&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 23-27</game-status><points>13</points></player><player id="plyr60001"><player-name>Falcons D/ST, Atl&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71615&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 23-27</game-status><points>8</points></player><player id="plyr12514"><player-name>LeSean McCoy, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>L 16-26</game-status><points>25</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr15795"><player-name>DeAndre Hopkins, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70333&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 9-30</game-status><points>6</points></player><player id="plyr14322"><player-name>Dan Bailey, Dal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70514&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 31-7</game-status><points>5</points></player><player id="plyr12537"><player-name>Jared Cook, StL&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70406&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-31</game-status><points>4</points></player><player id="plyr5209"><player-name>Tony Romo, Dal&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70114&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;StL&lt;/a&gt;</link><opponent>StL</opponent><game-status>W 31-7</game-status><points>20</points></player><player id="plyr8544"><player-name>Darren Sproles, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;KC&lt;/a&gt;</link><opponent>KC</opponent><game-status>L 16-26</game-status><points>4</points></player><player id="plyr10522"><player-name>James Jones, Oak&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70307&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Den&lt;/a&gt;</link><opponent>@Den</opponent><game-status>L 21-37</game-status><points>9</points></player><player id="plyr60017"><player-name>Patriots D/ST, NE&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71627&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 23-3</game-status><points>12</points></player><player id="plyr15078"><player-name>Chris Givens, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70306&amp;seasonId=2013" class="flexpop" instance="_ppc"&gt;@Dal&lt;/a&gt;</link><opponent>@Dal</opponent><game-status>L 7-31</game-status><points>3</points></player></players></team></game>
+<game season="2013" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr13197">
+            <player-slot/>
+            <player-name>Sam Bradford, StL QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 30-9</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 27-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15786">
+            <player-slot/>
+            <player-name>Tavon Austin, StL WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 27-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-26</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 9-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-7</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-37</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15078">
+            <player-slot/>
+            <player-name>Chris Givens, StL WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

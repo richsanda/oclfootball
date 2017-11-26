@@ -1,2 +1,141 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2014.4.2.xml"><team><header>Kidani Village Okapi Box Score</header><players><player id="plyr13994"><player-name>Cam Newton, Car&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70133&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Bal&lt;/a&gt;</link><opponent>@Bal</opponent><game-status>L 10-38</game-status><points>11</points></player><player id="plyr5549"><player-name>Steven Jackson, Atl&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70216&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 28-41</game-status><points>5</points></player><player id="plyr16763"><player-name>Jordan Matthews, Phi&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70325&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 21-26</game-status><points>2</points></player><player id="plyr15878"><player-name>Terrance Williams, Dal&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70318&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>W 38-17</game-status><points>19</points></player><player id="plyr11267"><player-name>Donnie Avery, KC&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70317&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NE&lt;/a&gt;</link><opponent>NE</opponent><game-status>W 41-14</game-status><points>4</points></player><player id="plyr13232"><player-name>Jimmy Graham, Sea&#xA0;TE</player-name><link/><opponent/><game-status/><points>12</points></player><player id="plyr60021"><player-name>Eagles D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 21-26</game-status><points>25</points></player><player id="plyr4333"><player-name>Matt Bryant, Atl&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Min&lt;/a&gt;</link><opponent>@Min</opponent><game-status>L 28-41</game-status><points>4</points></player></players></team><team><header>The Franchise Box Score</header><players><player id="plyr8664"><player-name>Ryan Fitzpatrick, NYJ&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70108&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Det&lt;/a&gt;</link><opponent>Det</opponent><game-status>L 17-24</game-status><points>11</points></player><player id="plyr14886"><player-name>Lamar Miller, Mia&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70213&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@Oak&lt;/a&gt;</link><opponent>@Oak</opponent><game-status>W 38-14</game-status><points>16</points></player><player id="plyr8544"><player-name>Darren Sproles, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70225&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>L 21-26</game-status><points>6</points></player><player id="plyr10447"><player-name>Calvin Johnson, Det&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70320&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@NYJ&lt;/a&gt;</link><opponent>@NYJ</opponent><game-status>W 24-17</game-status><points>1</points></player><player id="plyr15795"><player-name>DeAndre Hopkins, Hou&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70302&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 23-17</game-status><points>12</points></player><player id="plyr13229"><player-name>Rob Gronkowski, NE&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70412&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 14-41</game-status><points>9</points></player><player id="plyr60017"><player-name>Patriots D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71612&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 14-41</game-status><points>-5</points></player><player id="plyr14322"><player-name>Dan Bailey, Dal&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70518&amp;seasonId=2014" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>W 38-17</game-status><points>10</points></player></players></team></game>
+<game season="2014" scoringPeriod="4" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 28-41</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr11267">
+            <player-slot/>
+            <player-name>Donnie Avery, KC WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 41-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15878">
+            <player-slot/>
+            <player-name>Terrance Williams, Dal WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 38-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 28-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 23-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 38-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Mia RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-41</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8664">
+            <player-slot/>
+            <player-name>Ryan Fitzpatrick, NYJ QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-41</game-status>
+            <points>-5</points>
+         </player>
+      </players>
+   </team>
+</game>

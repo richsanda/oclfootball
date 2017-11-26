@@ -1,2 +1,140 @@
-<?xml version="1.0"?>
-<game file="/Users/richsanda/life/python/crawlers/espn/games/2015.7.4.xml"><team><header>Magoun Square Ruffians Box Score</header><players><player id="plyr14874"><player-name>Andrew Luck, Ind&#xA0;QB&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70118&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;NO&lt;/a&gt;</link><opponent>NO</opponent><game-status>L 21-27</game-status><points>29</points></player><player id="plyr15825"><player-name>Le'Veon Bell*, Pit&#xA0;RB&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70212&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@KC&lt;/a&gt;</link><opponent>@KC</opponent><game-status>L 13-23</game-status><points>15</points></player><player id="plyr12497"><player-name>Arian Foster*, Hou&#xA0;RB&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 26-44</game-status><points>23</points></player><player id="plyr12649"><player-name>Julian Edelman, NE&#xA0;WR&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70320&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;NYJ&lt;/a&gt;</link><opponent>NYJ</opponent><game-status>W 30-23</game-status><points>5</points></player><player id="plyr17677"><player-name>Amari Cooper, Oak&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70324&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@SD&lt;/a&gt;</link><opponent>@SD</opponent><game-status>W 37-29</game-status><points>23</points></player><player id="plyr9761"><player-name>Delanie Walker, Ten&#xA0;TE</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70401&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Atl&lt;/a&gt;</link><opponent>Atl</opponent><game-status>L 7-10</game-status><points>5</points></player><player id="plyr60028"><player-name>Redskins D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71627&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;TB&lt;/a&gt;</link><opponent>TB</opponent><game-status>W 31-30</game-status><points>-1</points></player><player id="plyr11122"><player-name>Matt Prater, Det&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70516&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Min&lt;/a&gt;</link><opponent>Min</opponent><game-status>L 19-28</game-status><points>7</points></player></players></team><team><header/><players><player id="plyr16725"><player-name>Sammy Watkins, Buf&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70330&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Jax&lt;/a&gt;</link><opponent>@Jax</opponent><game-status>L 31-34</game-status><points>0</points></player><player id="plyr12601"><player-name>Mike Wallace, Min&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70308&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Det&lt;/a&gt;</link><opponent>@Det</opponent><game-status>W 28-19</game-status><points>3</points></player><player id="plyr60034"><player-name>Texans D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71615&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 26-44</game-status><points>-1</points></player><player id="plyr14914"><player-name>Brian Quick, StL&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70305&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Cle&lt;/a&gt;</link><opponent>Cle</opponent><game-status>W 24-6</game-status><points>0</points></player><player id="plyr17704"><player-name>Cameron Artis-Payne, Car&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70221&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 27-16</game-status><points>0</points></player><player id="plyr14012"><player-name>Andy Dalton, Cin&#xA0;QB&#xA0;&#xA0;</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr15855"><player-name>Christine Michael, Sea&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70225&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 20-3</game-status><points>1</points></player><player id="plyr16040"><player-name>C.J. Anderson, Den&#xA0;RB</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr11307"><player-name>Jamaal Charles*, KC&#xA0;RB&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70223&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Pit&lt;/a&gt;</link><opponent>Pit</opponent><game-status>W 23-13</game-status><points>0</points></player></players></team><team><header>Apponequet Justins Box Score</header><players><player id="plyr2580"><player-name>Drew Brees, NO&#xA0;QB&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70111&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Ind&lt;/a&gt;</link><opponent>@Ind</opponent><game-status>W 27-21</game-status><points>12</points></player><player id="plyr14885"><player-name>Doug Martin, TB&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70228&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Wsh&lt;/a&gt;</link><opponent>@Wsh</opponent><game-status>L 30-31</game-status><points>18</points></player><player id="plyr14017"><player-name>Shane Vereen, NYG&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70206&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Dal&lt;/a&gt;</link><opponent>Dal</opponent><game-status>W 27-20</game-status><points>5</points></player><player id="plyr15818"><player-name>Keenan Allen*, SD&#xA0;WR&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70313&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Oak&lt;/a&gt;</link><opponent>Oak</opponent><game-status>L 29-37</game-status><points>8</points></player><player id="plyr9705"><player-name>Brandon Marshall, NYJ&#xA0;WR</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=3&amp;playerId=70317&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@NE&lt;/a&gt;</link><opponent>@NE</opponent><game-status>L 23-30</game-status><points>6</points></player><player id="plyr14204"><player-name>Julius Thomas, Jax&#xA0;TE&#xA0;&#xA0;</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=4&amp;playerId=70402&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Buf&lt;/a&gt;</link><opponent>Buf</opponent><game-status>W 34-31</game-status><points>0</points></player><player id="plyr60026"><player-name>Seahawks D/ST&#xA0;D/ST</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=16&amp;playerId=71625&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@SF&lt;/a&gt;</link><opponent>@SF</opponent><game-status>W 20-3</game-status><points>13</points></player><player id="plyr12460"><player-name>Graham Gano, Car&#xA0;K</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=5&amp;playerId=70521&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;Phi&lt;/a&gt;</link><opponent>Phi</opponent><game-status>W 27-16</game-status><points>9</points></player></players></team><team><header/><players><player id="plyr11278"><player-name>Matt Forte, Chi&#xA0;RB</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr17134"><player-name>Alfred Blue, Hou&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70215&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Mia&lt;/a&gt;</link><opponent>@Mia</opponent><game-status>L 26-44</game-status><points>0</points></player><player id="plyr13295"><player-name>Emmanuel Sanders, Den&#xA0;WR</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr13197"><player-name>Sam Bradford, Phi&#xA0;QB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=1&amp;playerId=70129&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>L 16-27</game-status><points>6</points></player><player id="plyr8544"><player-name>Darren Sproles, Phi&#xA0;RB</player-name><link>&lt;a href content="ajax#/ffl/format/pvopop/summary?leagueId=35734&amp;positionId=2&amp;playerId=70229&amp;seasonId=2015" class="flexpop" instance="_ppc"&gt;@Car&lt;/a&gt;</link><opponent>@Car</opponent><game-status>L 16-27</game-status><points>3</points></player><player id="plyr15072"><player-name>Marvin Jones, Cin&#xA0;WR</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr9354"><player-name>Robbie Gould, Chi&#xA0;K</player-name><link/><opponent/><game-status/><points>--</points></player><player id="plyr9684"><player-name>Owen Daniels, Den&#xA0;TE&#xA0;&#xA0;</player-name><link/><opponent/><game-status/><points>--</points></player></players></team></game>
+<game season="2015" scoringPeriod="7" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-30</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 19-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 37-29</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 21-27</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 26-44</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 30-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot/>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 34-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 20-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 29-37</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 23-30</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

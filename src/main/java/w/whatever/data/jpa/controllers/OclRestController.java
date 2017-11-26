@@ -2,21 +2,27 @@ package w.whatever.data.jpa.controllers;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
+import javafx.collections.transformation.SortedList;
+import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
+import org.springframework.util.CollectionUtils;
 import org.springframework.web.bind.annotation.*;
 import w.whatever.data.jpa.domain.Game;
-import w.whatever.data.jpa.jobs.ocl.load.OclLoadJobRunner;
+import w.whatever.data.jpa.domain.PlayerWeek;
+import w.whatever.data.jpa.domain.TeamWeek;
 import w.whatever.data.jpa.service.GameService;
 import w.whatever.data.jpa.service.data.CityRepository;
 import w.whatever.data.jpa.domain.City;
 import w.whatever.data.jpa.service.data.GameRepository;
 
-import java.util.Iterator;
+import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by rich on 10/10/15.
@@ -33,8 +39,8 @@ public class OclRestController {
     @Autowired
     GameService gameService;
 
-    @Autowired
-    OclLoadJobRunner oclLoadJobRunner;
+    //@Autowired
+    //OclLoadJobRunner oclLoadJobRunner;
 
     @Bean
     ObjectMapper objectMapper() {
@@ -54,6 +60,65 @@ public class OclRestController {
         return "Done";
     }
     */
+
+    @RequestMapping(value = "/stats", method= RequestMethod.GET, produces = "application/json")
+    public @ResponseBody List<PlayerPoints> giveMeStats() {
+
+        Map<String, Integer> playerPoints = Maps.newTreeMap();
+        Map<String, String> playerNames = Maps.newHashMap();
+
+        Iterable<Game> games = gameRepository.findAll();
+        for (Game game : games) {
+            if (game.getSeason() != 2005) {
+                TeamWeek teamWeek = game.getTeamWeek();
+                for (PlayerWeek playerWeek : teamWeek.getPlayerWeeks()) {
+                    String playerId = playerWeek.getPlayerId();
+                    Integer points = playerWeek.getPoints();
+                    Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
+                    String playerName = playerWeek.getPlayerName();
+                    playerPoints.put(playerId, points + basePoints);
+                    playerNames.put(playerId, playerName);
+                }
+            }
+        }
+
+        List<PlayerPoints> result = Lists.newArrayList();
+
+        for (String playerId : playerPoints.keySet()) {
+            PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId));
+            result.add(pp);
+        }
+
+        Collections.sort(result);
+
+        int i = 1;
+        for (PlayerPoints pp : result) {
+            System.out.println("" + i++ + ". " + pp);
+        }
+
+        return result;
+    }
+
+    public static class PlayerPoints implements Comparable<PlayerPoints> {
+
+        private final String playerName;
+        private final Integer points;
+
+        private PlayerPoints(String playerName, Integer points) {
+            this.playerName = playerName;
+            this.points = points;
+        }
+
+        @Override
+        public int compareTo(PlayerPoints o) {
+            return new CompareToBuilder().append(o.points, this.points).build();
+        }
+
+        @Override
+        public String toString() {
+            return String.format("%s: %d", playerName, points);
+        }
+    }
 
     @RequestMapping(value = "/game", method= RequestMethod.GET, produces = "application/json")
     public @ResponseBody Game giveMeAGame(@RequestParam Integer season, @RequestParam Integer scoringPeriod, @RequestParam Integer team) {
@@ -81,7 +146,7 @@ public class OclRestController {
 
         startSeason = startSeason == null ? 2006 : startSeason;
         startWeek = startWeek == null ? 1 : startWeek;
-        endSeason = endSeason == null ? 2015 : endSeason;
+        endSeason = endSeason == null ? 2017 : endSeason;
         endWeek = endWeek == null ? 16 : endWeek;
         teams = teams == null ? Lists.newArrayList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12) : teams;
         wins = wins == null ? true : wins;

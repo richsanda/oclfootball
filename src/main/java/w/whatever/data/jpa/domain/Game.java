@@ -57,6 +57,7 @@ public class Game {
         this.file = file;
     }
 
+    @XmlAttribute(name = "season")
     public int getSeason() {
         return season;
     }
@@ -65,6 +66,7 @@ public class Game {
         this.season = season;
     }
 
+    @XmlAttribute(name = "team")
     public int getTeamNumber() {
         return teamNumber;
     }
@@ -73,6 +75,7 @@ public class Game {
         this.teamNumber = teamNumber;
     }
 
+    @XmlAttribute(name = "scoringPeriod")
     public int getScoringPeriod() {
         return scoringPeriod;
     }
@@ -93,13 +96,13 @@ public class Game {
 
         try {
 
-            String[] fileSplit = file.split("/");
+/*            String[] fileSplit = file.split("/");
             String fileName = fileSplit[fileSplit.length - 1];
             String[] fileNameSplit = fileName.split("\\.");
 
             season = Integer.parseInt(fileNameSplit[0]);
             scoringPeriod = Integer.parseInt(fileNameSplit[1]);
-            teamNumber = Integer.parseInt(fileNameSplit[2]);
+            teamNumber = Integer.parseInt(fileNameSplit[2]);*/
 
             initialized = true;
 
@@ -198,6 +201,7 @@ public class Game {
 
     // in 2015, bench "teams" began recording, so from then on, get team week at index 2 instead of 1
     private int opponentTeamWeekIndex() {
-        return season >= 2015 ? 2 : 1;
+        // return season >= 2015 ? 2 : 1;
+        return 1;
     }
 }
