@@ -30,6 +30,8 @@ public interface GameRepository extends PagingAndSortingRepository<Game, Long> {
 
 	Game findBySeasonAndScoringPeriodAndTeamNumber(Integer season, Integer scoringPeriod, Integer teamNumber);
 
+	Iterable<Game> findByTeamNumber(Integer teamNumber);
+
 	@Query("SELECT g FROM Game g WHERE NOT g.season = '2005'")
 	Page<Game> findHighestScoringGames(org.springframework.data.domain.Pageable pageable);
 

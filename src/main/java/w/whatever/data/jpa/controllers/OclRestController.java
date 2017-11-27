@@ -62,41 +62,56 @@ public class OclRestController {
     */
 
     @RequestMapping(value = "/stats", method= RequestMethod.GET, produces = "application/json")
-    public @ResponseBody List<PlayerPoints> giveMeStats() {
+    public @ResponseBody String giveMeStats() {
 
-        Map<String, Integer> playerPoints = Maps.newTreeMap();
-        Map<String, String> playerNames = Maps.newHashMap();
+        StringBuilder sb = new StringBuilder();
 
-        Iterable<Game> games = gameRepository.findAll();
-        for (Game game : games) {
-            if (game.getSeason() != 2005) {
-                TeamWeek teamWeek = game.getTeamWeek();
-                for (PlayerWeek playerWeek : teamWeek.getPlayerWeeks()) {
-                    String playerId = playerWeek.getPlayerId();
-                    Integer points = playerWeek.getPoints();
-                    Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
-                    String playerName = playerWeek.getPlayerName();
-                    playerPoints.put(playerId, points + basePoints);
-                    playerNames.put(playerId, playerName);
+        int teamNumber = 1;
+        while (teamNumber <= 12) {
+
+            Map<String, Integer> playerPoints = Maps.newTreeMap();
+            Map<String, String> playerNames = Maps.newHashMap();
+
+            Iterable<Game> games = gameRepository.findByTeamNumber(teamNumber);
+
+            System.out.println();
+            System.out.println("Team " + teamNumber);
+
+            for (Game game : games) {
+                if (game.getSeason() != 2005) {
+                    TeamWeek teamWeek = game.getTeamWeek();
+                    for (PlayerWeek playerWeek : teamWeek.getPlayerWeeks()) {
+                        String playerId = playerWeek.getPlayerId();
+                        Integer points = playerWeek.getPoints();
+                        Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
+                        String playerName = playerWeek.getPlayerName();
+                        playerPoints.put(playerId, points + basePoints);
+                        playerNames.put(playerId, playerName);
+                    }
                 }
             }
+
+            List<PlayerPoints> result = Lists.newArrayList();
+
+            for (String playerId : playerPoints.keySet()) {
+                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId));
+                result.add(pp);
+            }
+
+            Collections.sort(result);
+
+            sb.append("Team ").append(teamNumber).append(":\n");
+
+            int i = 1;
+            for (PlayerPoints pp : result) {
+                sb.append(i++).append(". ").append(pp).append("\n");
+                if (i > 20) break;
+            }
+            sb.append("\n\n");
+            teamNumber++;
         }
 
-        List<PlayerPoints> result = Lists.newArrayList();
-
-        for (String playerId : playerPoints.keySet()) {
-            PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId));
-            result.add(pp);
-        }
-
-        Collections.sort(result);
-
-        int i = 1;
-        for (PlayerPoints pp : result) {
-            System.out.println("" + i++ + ". " + pp);
-        }
-
-        return result;
+        return sb.toString();
     }
 
     public static class PlayerPoints implements Comparable<PlayerPoints> {
