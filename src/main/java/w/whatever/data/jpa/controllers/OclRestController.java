@@ -70,6 +70,7 @@ public class OclRestController {
         while (teamNumber <= 12) {
 
             Map<String, Integer> playerPoints = Maps.newTreeMap();
+            Map<String, Integer> playerLastPoints = Maps.newTreeMap();
             Map<String, String> playerNames = Maps.newHashMap();
 
             Iterable<Game> games = gameRepository.findByTeamNumber(teamNumber);
@@ -86,6 +87,9 @@ public class OclRestController {
                         Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
                         String playerName = playerWeek.getPlayerName();
                         playerPoints.put(playerId, points + basePoints);
+                        if (game.getSeason() == 2017 && game.getScoringPeriod() == 12) {
+                            playerLastPoints.put(playerId, points);
+                        }
                         playerNames.put(playerId, playerName);
                     }
                 }
@@ -94,7 +98,7 @@ public class OclRestController {
             List<PlayerPoints> result = Lists.newArrayList();
 
             for (String playerId : playerPoints.keySet()) {
-                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId));
+                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId));
                 result.add(pp);
             }
 
@@ -107,7 +111,7 @@ public class OclRestController {
                 sb.append(i++).append(". ").append(pp).append("\n");
                 if (i > 20) break;
             }
-            sb.append("\n\n");
+            sb.append("\n");
             teamNumber++;
         }
 
@@ -118,10 +122,12 @@ public class OclRestController {
 
         private final String playerName;
         private final Integer points;
+        private final Integer lastPoints;
 
-        private PlayerPoints(String playerName, Integer points) {
+        private PlayerPoints(String playerName, Integer points, Integer lastPoints) {
             this.playerName = playerName;
             this.points = points;
+            this.lastPoints = lastPoints;
         }
 
         @Override
@@ -131,7 +137,16 @@ public class OclRestController {
 
         @Override
         public String toString() {
-            return String.format("%s: %d", playerName, points);
+            StringBuilder sb = new StringBuilder(String.format("%s: %d", playerName, points));
+            if (null != lastPoints) {
+                sb.append(" (");
+                if (lastPoints >= 0) {
+                    sb.append("+");
+                }
+                sb.append(lastPoints);
+                sb.append(")");
+            }
+            return sb.toString();
         }
     }
 

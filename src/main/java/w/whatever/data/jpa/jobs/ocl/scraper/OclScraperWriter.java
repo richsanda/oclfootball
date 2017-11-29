@@ -13,8 +13,9 @@ public class OclScraperWriter implements ItemWriter<OclScraperGame> {
     @Override
     public void write(List<? extends OclScraperGame> items) throws Exception {
          for (OclScraperGame game : items) {
-             // game.writeHtmlToResource();
-             //game.writeXHTMLFromHTML();
+             game.getGameFromEspn();
+             game.writeHtmlToResource();
+             game.writeXHTMLFromHTML();
              game.writeXMLFromXHTML();
          }
     }

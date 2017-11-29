@@ -12,8 +12,6 @@ public class OclScraperProcessor implements ItemProcessor<OclScraperGame, OclScr
     @Override
     public OclScraperGame process(OclScraperGame item) throws Exception {
 
-        // item.getGameFromEspn(item);
-        
         return item;
     }
 }

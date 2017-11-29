@@ -26,11 +26,11 @@ public class OclScraperReader implements ItemReader<OclScraperGame> {
     private final static Integer maxTeam2005 = 10;
     private final static Integer maxTeam = 12;
 
-    private final static Integer minScoringPeriod = 1;
-    private final static Integer maxScoringPeriod = 17;
+    private final static Integer minScoringPeriod = 12;
+    private final static Integer maxScoringPeriod = 12;
 
-    private final static Integer minSeason = 2005; // 2006;
-    private final static Integer maxSeason = 2005;
+    private final static Integer minSeason = 2017; // 2006;
+    private final static Integer maxSeason = 2017;
 
     private Integer team = minTeam;
     private Integer scoringPeriod = minScoringPeriod;
