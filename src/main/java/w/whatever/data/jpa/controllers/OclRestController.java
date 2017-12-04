@@ -3,14 +3,12 @@ package w.whatever.data.jpa.controllers;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
-import javafx.collections.transformation.SortedList;
 import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
-import org.springframework.util.CollectionUtils;
 import org.springframework.web.bind.annotation.*;
 import w.whatever.data.jpa.domain.Game;
 import w.whatever.data.jpa.domain.PlayerWeek;
@@ -19,10 +17,13 @@ import w.whatever.data.jpa.service.GameService;
 import w.whatever.data.jpa.service.data.CityRepository;
 import w.whatever.data.jpa.domain.City;
 import w.whatever.data.jpa.service.data.GameRepository;
+import w.whatever.data.jpa.util.OclUtility;
 
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
+
+import static w.whatever.data.jpa.util.OclUtility.countPerTeam;
 
 /**
  * Created by rich on 10/10/15.
@@ -87,7 +88,7 @@ public class OclRestController {
                         Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
                         String playerName = playerWeek.getPlayerName();
                         playerPoints.put(playerId, points + basePoints);
-                        if (game.getSeason() == 2017 && game.getScoringPeriod() == 12) {
+                        if (game.getSeason() == OclUtility.currentSeason && game.getScoringPeriod() == OclUtility.currentScoringPeriod) {
                             playerLastPoints.put(playerId, points);
                         }
                         playerNames.put(playerId, playerName);
@@ -109,7 +110,7 @@ public class OclRestController {
             int i = 1;
             for (PlayerPoints pp : result) {
                 sb.append(i++).append(". ").append(pp).append("\n");
-                if (i > 20) break;
+                if (i > countPerTeam) break;
             }
             sb.append("\n");
             teamNumber++;

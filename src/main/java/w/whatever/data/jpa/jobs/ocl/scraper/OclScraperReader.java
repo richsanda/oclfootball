@@ -5,6 +5,7 @@ import org.springframework.batch.item.NonTransientResourceException;
 import org.springframework.batch.item.ParseException;
 import org.springframework.batch.item.UnexpectedInputException;
 import w.whatever.data.jpa.jobs.ocl.scraper.data.OclScraperGame;
+import w.whatever.data.jpa.util.OclUtility;
 
 /**
  * Created by rich on 11/24/17.
@@ -26,8 +27,8 @@ public class OclScraperReader implements ItemReader<OclScraperGame> {
     private final static Integer maxTeam2005 = 10;
     private final static Integer maxTeam = 12;
 
-    private final static Integer minScoringPeriod = 12;
-    private final static Integer maxScoringPeriod = 12;
+    private final static Integer minScoringPeriod = OclUtility.currentScoringPeriod;
+    private final static Integer maxScoringPeriod = OclUtility.currentScoringPeriod;
 
     private final static Integer minSeason = 2017; // 2006;
     private final static Integer maxSeason = 2017;
