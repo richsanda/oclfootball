@@ -7,5 +7,5 @@ public class OclUtility {
 
     public static final Integer currentSeason = 2017;
     public static final Integer currentScoringPeriod = 13;
-    public static final Integer countPerTeam = 1000;
+    public static final Integer countPerTeam = 20;
 }
