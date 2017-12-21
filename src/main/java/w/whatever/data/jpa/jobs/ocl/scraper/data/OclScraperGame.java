@@ -27,7 +27,7 @@ public class OclScraperGame {
     private final static String gameHtmlFileTemplate = "html/%d.%d.%d.html";
     private final static String gameXhtmlFileTemplate = "xhtml/%d.%d.%d.xhtml";
     private final static String gameXmlFileTemplate = "%d.%d.%d.xml";
-    private final static String gamesDir = "/Users/rich/checkouts/oclfootball/src/main/resources/games";
+    private final static String gamesDir = "/Users/rich/checkouts/ocl/src/main/resources/games";
 
     private final static String transformLocation = "/xsl/xhtmlToXml.xslt";
 
