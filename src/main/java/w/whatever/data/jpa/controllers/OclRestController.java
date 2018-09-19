@@ -3,6 +3,7 @@ package w.whatever.data.jpa.controllers;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
+import com.google.common.collect.Sets;
 import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -19,9 +20,8 @@ import w.whatever.data.jpa.domain.City;
 import w.whatever.data.jpa.service.data.GameRepository;
 import w.whatever.data.jpa.util.OclUtility;
 
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+import java.math.BigDecimal;
+import java.util.*;
 
 import static w.whatever.data.jpa.util.OclUtility.countPerTeam;
 
@@ -71,8 +71,11 @@ public class OclRestController {
         while (teamNumber <= 12) {
 
             Map<String, Integer> playerPoints = Maps.newTreeMap();
+            Map<String, Integer> playerGames = Maps.newTreeMap();
             Map<String, Integer> playerLastPoints = Maps.newTreeMap();
             Map<String, String> playerNames = Maps.newHashMap();
+
+            Set<String> currentLineup = Sets.newHashSet();
 
             Iterable<Game> games = gameRepository.findByTeamNumber(teamNumber);
 
@@ -86,10 +89,14 @@ public class OclRestController {
                         String playerId = playerWeek.getPlayerId();
                         Integer points = playerWeek.getPoints();
                         Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
+                        Integer baseGames = playerGames.containsKey(playerId) ? playerGames.get(playerId) : 0;
                         String playerName = playerWeek.getPlayerName();
                         playerPoints.put(playerId, points + basePoints);
+                        playerGames.put(playerId, baseGames + 1);
                         if (game.getSeason() == OclUtility.currentSeason && game.getScoringPeriod() == OclUtility.currentScoringPeriod) {
-                            playerLastPoints.put(playerId, points);
+                            int playerLastPointsBase = playerLastPoints.containsKey(playerId) ? playerLastPoints.get(playerId) : 0;
+                            playerLastPoints.put(playerId, points + playerLastPointsBase);
+                            currentLineup.add(playerId);
                         }
                         playerNames.put(playerId, playerName);
                     }
@@ -97,20 +104,36 @@ public class OclRestController {
             }
 
             List<PlayerPoints> result = Lists.newArrayList();
+            Set<PlayerPoints> currentLineupPlayerPoints = Sets.newTreeSet(new Comparator<PlayerPoints>() {
+                @Override
+                public int compare(PlayerPoints p1, PlayerPoints p2) {
+                    return p1.playerName.compareTo(p2.playerName);
+                }
+            });
 
             for (String playerId : playerPoints.keySet()) {
-                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId));
+                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId), playerGames.get(playerId));
                 result.add(pp);
+                if (currentLineup.contains(playerId)) {
+                    currentLineupPlayerPoints.add(pp);
+                }
             }
 
             Collections.sort(result);
 
             sb.append("Team ").append(teamNumber).append(":\n");
 
-            int i = 1;
-            for (PlayerPoints pp : result) {
-                sb.append(i++).append(". ").append(pp).append("\n");
-                if (i > countPerTeam) break;
+            if (true) {
+                int i = 1;
+                for (PlayerPoints pp : result) {
+                    sb.append(i++).append(". ").append(pp).append("\n");
+                    if (i > countPerTeam) break;
+                }
+            } else {
+
+                for (PlayerPoints pp : currentLineupPlayerPoints) {
+                    sb.append(pp).append("\n");
+                }
             }
             sb.append("\n");
             teamNumber++;
@@ -124,11 +147,15 @@ public class OclRestController {
         private final String playerName;
         private final Integer points;
         private final Integer lastPoints;
+        private final Integer games;
+        private final double average;
 
-        private PlayerPoints(String playerName, Integer points, Integer lastPoints) {
+        private PlayerPoints(String playerName, Integer points, Integer lastPoints, Integer games) {
             this.playerName = playerName;
             this.points = points;
             this.lastPoints = lastPoints;
+            this.games = games;
+            this.average = (double)(points) / (double)(games);
         }
 
         @Override
