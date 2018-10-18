@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
+import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;
 import w.whatever.data.jpa.domain.Game;
 import w.whatever.data.jpa.domain.PlayerWeek;
@@ -30,6 +31,8 @@ import static w.whatever.data.jpa.util.OclUtility.countPerTeam;
  */
 @RestController
 public class OclRestController {
+
+    private static final boolean TOP_20 = true;
 
     @Autowired
     CityRepository cityRepository;
@@ -70,10 +73,11 @@ public class OclRestController {
         int teamNumber = 1;
         while (teamNumber <= 12) {
 
-            Map<String, Integer> playerPoints = Maps.newTreeMap();
+            final Map<String, Integer> playerPoints = Maps.newTreeMap();
             Map<String, Integer> playerGames = Maps.newTreeMap();
             Map<String, Integer> playerLastPoints = Maps.newTreeMap();
             Map<String, String> playerNames = Maps.newHashMap();
+            Map<String, String> playerPositions = Maps.newHashMap();
 
             Set<String> currentLineup = Sets.newHashSet();
 
@@ -91,6 +95,7 @@ public class OclRestController {
                         Integer basePoints = playerPoints.containsKey(playerId) ? playerPoints.get(playerId) : 0;
                         Integer baseGames = playerGames.containsKey(playerId) ? playerGames.get(playerId) : 0;
                         String playerName = playerWeek.getPlayerName();
+                        String playerPosition = playerWeek.getPosition();
                         playerPoints.put(playerId, points + basePoints);
                         playerGames.put(playerId, baseGames + 1);
                         if (game.getSeason() == OclUtility.currentSeason && game.getScoringPeriod() == OclUtility.currentScoringPeriod) {
@@ -99,20 +104,24 @@ public class OclRestController {
                             currentLineup.add(playerId);
                         }
                         playerNames.put(playerId, playerName);
+                        playerPositions.put(playerId, playerPosition);
                     }
                 }
             }
 
             List<PlayerPoints> result = Lists.newArrayList();
-            Set<PlayerPoints> currentLineupPlayerPoints = Sets.newTreeSet(new Comparator<PlayerPoints>() {
+            SortedSet<PlayerPoints> currentLineupPlayerPoints = Sets.newTreeSet(new Comparator<PlayerPoints>() {
                 @Override
                 public int compare(PlayerPoints p1, PlayerPoints p2) {
-                    return p1.playerName.compareTo(p2.playerName);
+                    return new CompareToBuilder()
+                            .append(p1.positionIndex(), p2.positionIndex())
+                            .append(p1.playerName, p2.playerName)
+                            .toComparison();
                 }
             });
 
             for (String playerId : playerPoints.keySet()) {
-                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId), playerGames.get(playerId));
+                PlayerPoints pp = new PlayerPoints(playerNames.get(playerId), playerPositions.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId), playerGames.get(playerId));
                 result.add(pp);
                 if (currentLineup.contains(playerId)) {
                     currentLineupPlayerPoints.add(pp);
@@ -123,7 +132,7 @@ public class OclRestController {
 
             sb.append("Team ").append(teamNumber).append(":\n");
 
-            if (true) {
+            if (TOP_20) {
                 int i = 1;
                 for (PlayerPoints pp : result) {
                     sb.append(i++).append(". ").append(pp).append("\n");
@@ -145,17 +154,34 @@ public class OclRestController {
     public static class PlayerPoints implements Comparable<PlayerPoints> {
 
         private final String playerName;
+        private final String playerPosition;
         private final Integer points;
         private final Integer lastPoints;
         private final Integer games;
         private final double average;
 
-        private PlayerPoints(String playerName, Integer points, Integer lastPoints, Integer games) {
+        private PlayerPoints(String playerName, String playerPosition, Integer points, Integer lastPoints, Integer games) {
             this.playerName = playerName;
+            this.playerPosition = playerPosition;
             this.points = points;
             this.lastPoints = lastPoints;
             this.games = games;
             this.average = (double)(points) / (double)(games);
+        }
+
+        public int positionIndex() {
+            if (StringUtils.isEmpty(playerPosition)) {
+                return 10;
+            }
+            switch (playerPosition.charAt(0)) {
+                case 'Q': return 1;
+                case 'R': return 2;
+                case 'W': return 3;
+                case 'T': return 4;
+                case 'D': return 5;
+                case 'K': return 6;
+                default: return 7;
+            }
         }
 
         @Override
@@ -164,17 +190,41 @@ public class OclRestController {
         }
 
         @Override
+        public boolean equals(Object o) {
+            return o instanceof PlayerPoints && ((PlayerPoints) o).playerName.equals(playerName);
+        }
+
+        @Override
         public String toString() {
-            StringBuilder sb = new StringBuilder(String.format("%s: %d", playerName, points));
-            if (null != lastPoints) {
-                sb.append(" (");
-                if (lastPoints >= 0) {
-                    sb.append("+");
+            if (TOP_20) {
+
+                StringBuilder sb = new StringBuilder(String.format("%s: %d", playerName, points));
+                if (null != lastPoints) {
+                    sb.append(" (");
+                    if (lastPoints >= 0) {
+                        sb.append("+");
+                    }
+                    sb.append(lastPoints);
+                    sb.append(")");
                 }
-                sb.append(lastPoints);
-                sb.append(")");
+
+                return sb.toString();
+
+            } else {
+
+                String average = String.format("%1$,.1f", (double)points / (double)games);
+                StringBuilder last = new StringBuilder();
+                if (null != lastPoints) {
+                    //last.append(" (");
+                    if (lastPoints >= 0) {
+                        last.append("+");
+                    }
+                    last.append(lastPoints);
+                    //last.append(")");
+                }
+
+                return String.format("%s %s: %s =%d /%d ^%s", playerPosition, playerName, last.toString(), points, games, average);
             }
-            return sb.toString();
         }
     }
 
