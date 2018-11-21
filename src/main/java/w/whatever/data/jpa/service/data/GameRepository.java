@@ -48,7 +48,9 @@ public interface GameRepository extends PagingAndSortingRepository<Game, Long> {
 					"AND g.teamNumber IN :teamNumbers " +
 					"AND ((g.win = true AND :wins = true) OR " +
 					"(g.loss = true AND :losses = true) OR " +
-					"(g.tie = true AND :ties = true))"
+					"(g.tie = true AND :ties = true)) " +
+					"AND ((:ruxbees = false) OR (:ruxbees = true AND g.ruxbee = true)) " +
+					"AND ((:bugtons = false) OR (:bugtons = true AND g.bugton = true))"
 	)
 	Page<Game> findHighestScoringGames(
 			@Param("startSeason") int startSeason,
@@ -59,6 +61,8 @@ public interface GameRepository extends PagingAndSortingRepository<Game, Long> {
 			@Param("wins") boolean wins,
 			@Param("losses") boolean losses,
 			@Param("ties") boolean ties,
+			@Param("ruxbees") boolean ruxbees,
+			@Param("bugtons") boolean bugtons,
 			org.springframework.data.domain.Pageable pageable);
 
 	@Query("SELECT g FROM Game g WHERE NOT g.season = '2005' and g.teamNumber = :teamNumber and g.points >= :points ORDER BY g.points DESC")

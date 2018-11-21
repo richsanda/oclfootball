@@ -135,8 +135,13 @@ public class OclRestController {
             if (TOP_20) {
                 int i = 1;
                 for (PlayerPoints pp : result) {
-                    sb.append(i++).append(". ").append(pp).append("\n");
-                    if (i > countPerTeam) break;
+                    if (i <= countPerTeam || pp.lastPoints != null)
+                    sb.append(i).append(". ").append(pp).append("\n");
+                    if (i == countPerTeam) {
+                        sb.append("-----\n");
+                    }
+                    i++;
+                    // if (i > countPerTeam) break;
                 }
             } else {
 
@@ -144,7 +149,7 @@ public class OclRestController {
                     sb.append(pp).append("\n");
                 }
             }
-            sb.append("\n");
+            sb.append("\n\n");
             teamNumber++;
         }
 
@@ -200,12 +205,7 @@ public class OclRestController {
 
                 StringBuilder sb = new StringBuilder(String.format("%s: %d", playerName, points));
                 if (null != lastPoints) {
-                    sb.append(" (");
-                    if (lastPoints >= 0) {
-                        sb.append("+");
-                    }
-                    sb.append(lastPoints);
-                    sb.append(")");
+                    writeLastPoints(sb);
                 }
 
                 return sb.toString();
@@ -225,6 +225,22 @@ public class OclRestController {
 
                 return String.format("%s %s: %s =%d /%d ^%s", playerPosition, playerName, last.toString(), points, games, average);
             }
+        }
+
+        private void writeLastPoints(StringBuilder sb) {
+
+            String average = String.format("%1$,.1f", (double)points / (double)games);
+
+            sb.append(" (");
+            if (lastPoints >= 0) {
+                sb.append("+");
+            }
+            sb.append(lastPoints);
+            sb.append(", ");
+            sb.append(games);
+            sb.append(" * ");
+            sb.append(average);
+            sb.append(")");
         }
     }
 
@@ -249,20 +265,24 @@ public class OclRestController {
             @RequestParam(required = false) List<Integer> teams,
             @RequestParam(required = false) Boolean wins,
             @RequestParam(required = false) Boolean losses,
-            @RequestParam(required = false) Boolean ties
+            @RequestParam(required = false) Boolean ties,
+            @RequestParam(required = false) Boolean ruxbees,
+            @RequestParam(required = false) Boolean bugtons
     ) {
 
         startSeason = startSeason == null ? 2006 : startSeason;
         startWeek = startWeek == null ? 1 : startWeek;
-        endSeason = endSeason == null ? 2017 : endSeason;
+        endSeason = endSeason == null ? OclUtility.currentSeason : endSeason;
         endWeek = endWeek == null ? 16 : endWeek;
         teams = teams == null ? Lists.newArrayList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12) : teams;
         wins = wins == null ? true : wins;
         losses = losses == null ? true : losses;
         ties = ties == null ? true : ties;
+        ruxbees = ruxbees == null ? false : ruxbees;
+        bugtons = bugtons == null ? false : bugtons;
 
         Page<Game> games = gameRepository.findHighestScoringGames(
-                startSeason, startWeek, endSeason, endWeek, teams, wins, losses, ties, new PageRequest(0, 100, Sort.Direction.DESC, "points"));
+                startSeason, startWeek, endSeason, endWeek, teams, wins, losses, ties, ruxbees, bugtons, new PageRequest(0, 100, Sort.Direction.DESC, "points"));
         return games.getContent();
     }
 

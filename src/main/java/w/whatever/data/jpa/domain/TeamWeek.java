@@ -13,12 +13,17 @@ import java.util.List;
 @Entity
 public class TeamWeek {
 
+    private static final int RUXBEE_THRESHOLD = 7;
+    private static final int BUGTON_THRESHOLD = 10;
+
     @Id
    	@GeneratedValue
    	private Long id;
 
     private String header;
     private int points = 0;
+    private boolean ruxbee = false;
+    private boolean bugton = false;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private List<PlayerWeek> playerWeeks;
@@ -52,10 +57,24 @@ public class TeamWeek {
         this.points = points;
     }
 
+    public boolean isRuxbee() {
+        return ruxbee;
+    }
+
+    public boolean isBugton() {
+        return bugton;
+    }
+
     public void init() {
+        boolean ruxbee = true;
+        boolean bugton = true;
         for (PlayerWeek playerWeek : playerWeeks) {
+            if (playerWeek.getPoints() < RUXBEE_THRESHOLD) ruxbee = false;
+            if (playerWeek.getPoints() > BUGTON_THRESHOLD) bugton = false;
             points += playerWeek.getPoints();
             playerWeek.init();
         }
+        this.ruxbee = ruxbee;
+        this.bugton = bugton;
     }
 }

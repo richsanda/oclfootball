@@ -6,6 +6,6 @@ package w.whatever.data.jpa.util;
 public class OclUtility {
 
     public static final Integer currentSeason = 2018;
-    public static final Integer currentScoringPeriod = 6;
+    public static final Integer currentScoringPeriod = 11;
     public static final Integer countPerTeam = 20;
 }

@@ -32,6 +32,8 @@ public class Game {
     private boolean win;
     private boolean loss;
     private boolean tie;
+    private boolean ruxbee;
+    private boolean bugton;
     private boolean initialized = false;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
@@ -121,6 +123,8 @@ public class Game {
         win = points > opponentPoints;
         tie = points == opponentPoints;
         loss = points < opponentPoints;
+        ruxbee = teamWeeks.get(0).isRuxbee();
+        bugton = teamWeeks.get(0).isBugton();
     }
 
     @Override
@@ -172,6 +176,10 @@ public class Game {
     public boolean isFirstGameOfSeason() {
         return scoringPeriod == 1;
     }
+
+    public boolean isRuxbee() { return ruxbee; }
+
+    public boolean isBugton() { return bugton; }
 
     @JsonProperty(value = "team")
     public TeamWeek getTeamWeek() {
