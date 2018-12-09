@@ -2,13 +2,12 @@ package w.whatever.data.jpa.jobs.ocl.scraper.data;
 
 import org.junit.Test;
 import org.w3c.tidy.Tidy;
-import w.whatever.data.jpa.jobs.ocl.scraper.util.Transforms;
 
-import javax.xml.transform.stream.StreamResult;
-import javax.xml.transform.stream.StreamSource;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -108,5 +107,15 @@ public class OclScraperGameTest {
         }
 
         return outputFile;
+    }
+
+    @Test
+    public void sydneyTest() {
+
+        List<Integer> numbers = Arrays.asList(4, 2, 2, 4, 44, 89, 123456);
+
+        for (Integer number : numbers) {
+            System.out.println(String.format("I am %d years old", number));
+        }
     }
 }

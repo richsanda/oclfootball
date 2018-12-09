@@ -29,6 +29,7 @@ public class Game {
     private int teamNumber;
     private int points;
     private int opponentPoints;
+    private int totalPoints;
     private boolean win;
     private boolean loss;
     private boolean tie;
@@ -120,6 +121,7 @@ public class Game {
 
         points = teamWeeks.get(0).getPoints();
         opponentPoints = teamWeeks.get(opponentTeamWeekIndex()).getPoints();
+        totalPoints = points + opponentPoints;
         win = points > opponentPoints;
         tie = points == opponentPoints;
         loss = points < opponentPoints;
