@@ -44,7 +44,7 @@
          </player>
          <player id="plyr17861">
             <player-slot>TE</player-slot>
-            <player-name>Austin Hooper, Atl TE</player-name>
+            <player-name>Austin Hooper, Atl TE   Q</player-name>
             <link/>
             <opponent>Bal</opponent>
             <game-status>L 16-26</game-status>
@@ -97,7 +97,7 @@
          </player>
          <player id="plyr14221">
             <player-slot>WR</player-slot>
-            <player-name>Doug Baldwin, Sea WR</player-name>
+            <player-name>Doug Baldwin, Sea WR   Q</player-name>
             <link/>
             <opponent>SF</opponent>
             <game-status>W 43-16</game-status>
@@ -113,7 +113,7 @@
          </player>
          <player id="plyr15860">
             <player-slot>TE</player-slot>
-            <player-name>Jordan Reed, Wsh TE</player-name>
+            <player-name>Jordan Reed, Wsh TE   D</player-name>
             <link/>
             <opponent>@Phi</opponent>
             <game-status>L 13-28</game-status>

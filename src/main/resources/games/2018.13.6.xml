@@ -12,7 +12,7 @@
          </player>
          <player id="plyr18341">
             <player-slot>RB</player-slot>
-            <player-name>Chris Carson, Sea RB   Q</player-name>
+            <player-name>Chris Carson, Sea RB</player-name>
             <link/>
             <opponent>SF</opponent>
             <game-status>W 43-16</game-status>
@@ -28,7 +28,7 @@
          </player>
          <player id="plyr17929">
             <player-slot>WR</player-slot>
-            <player-name>Tyreek Hill, KC WR</player-name>
+            <player-name>Tyreek Hill, KC WR   Q</player-name>
             <link/>
             <opponent>@Oak</opponent>
             <game-status>W 40-33</game-status>

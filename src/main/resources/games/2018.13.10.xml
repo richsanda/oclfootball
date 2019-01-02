@@ -28,7 +28,7 @@
          </player>
          <player id="plyr16733">
             <player-slot>WR</player-slot>
-            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <player-name>Odell Beckham Jr.*, NYG WR   O</player-name>
             <link/>
             <opponent>Chi</opponent>
             <game-status>W 30-27</game-status>
@@ -36,7 +36,7 @@
          </player>
          <player id="plyr13983">
             <player-slot>WR/TE</player-slot>
-            <player-name>A.J. Green*, Cin WR   O</player-name>
+            <player-name>A.J. Green*, Cin WR   IR</player-name>
             <link/>
             <opponent>Den</opponent>
             <game-status>L 10-24</game-status>

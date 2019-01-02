@@ -12,7 +12,7 @@
          </player>
          <player id="plyr18236">
             <player-slot>RB</player-slot>
-            <player-name>James Conner, Pit RB   Q</player-name>
+            <player-name>James Conner*, Pit RB   O</player-name>
             <link/>
             <opponent>LAC</opponent>
             <game-status>L 30-33</game-status>
@@ -73,7 +73,7 @@
       <players>
          <player id="plyr5536">
             <player-slot>QB</player-slot>
-            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <player-name>Ben Roethlisberger, Pit QB   Q</player-name>
             <link/>
             <opponent>LAC</opponent>
             <game-status>L 30-33</game-status>
@@ -113,7 +113,7 @@
          </player>
          <player id="plyr10475">
             <player-slot>TE</player-slot>
-            <player-name>Greg Olsen*, Car TE   O</player-name>
+            <player-name>Greg Olsen*, Car TE   IR</player-name>
             <link/>
             <opponent>@TB</opponent>
             <game-status>L 17-24</game-status>

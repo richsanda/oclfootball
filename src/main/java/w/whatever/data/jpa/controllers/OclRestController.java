@@ -20,6 +20,7 @@ import w.whatever.data.jpa.service.data.GameRepository;
 import w.whatever.data.jpa.util.OclUtility;
 
 import java.util.*;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 import static w.whatever.data.jpa.util.OclUtility.countPerTeam;
@@ -82,7 +83,7 @@ public class OclRestController {
             Iterable<Game> games = gameRepository.findByTeamNumber(teamNumber);
 
             System.out.println();
-            System.out.println("Team " + teamNumber);
+            System.out.println(owner(teamNumber, 2018));
 
             for (Game game : games) {
                 if (game.getSeason() != 2005) {
@@ -96,8 +97,8 @@ public class OclRestController {
                         String playerPosition = playerWeek.getPosition();
                         playerPoints.put(playerId, points + basePoints);
                         playerGames.put(playerId, baseGames + 1);
-                        if (game.getSeason() == OclUtility.currentSeason && game.getScoringPeriod() == OclUtility.currentScoringPeriod) {
-                            int playerLastPointsBase = playerLastPoints.containsKey(playerId) ? playerLastPoints.get(playerId) : 0;
+                        if (game.getSeason() == OclUtility.currentSeason) { // && game.getScoringPeriod() == OclUtility.currentScoringPeriod) {
+                            int playerLastPointsBase = playerLastPoints.getOrDefault(playerId, 0);
                             playerLastPoints.put(playerId, points + playerLastPointsBase);
                             currentLineup.add(playerId);
                         }
@@ -108,15 +109,10 @@ public class OclRestController {
             }
 
             List<PlayerPoints> result = Lists.newArrayList();
-            SortedSet<PlayerPoints> currentLineupPlayerPoints = Sets.newTreeSet(new Comparator<PlayerPoints>() {
-                @Override
-                public int compare(PlayerPoints p1, PlayerPoints p2) {
-                    return new CompareToBuilder()
-                            .append(p1.positionIndex(), p2.positionIndex())
-                            .append(p1.playerName, p2.playerName)
-                            .toComparison();
-                }
-            });
+            SortedSet<PlayerPoints> currentLineupPlayerPoints = Sets.newTreeSet((p1, p2) -> new CompareToBuilder()
+                    .append(p1.positionIndex(), p2.positionIndex())
+                    .append(p1.playerName, p2.playerName)
+                    .toComparison());
 
             for (String playerId : playerPoints.keySet()) {
                 PlayerPoints pp = new PlayerPoints(null, null, playerNames.get(playerId), playerPositions.get(playerId), playerPoints.get(playerId), playerLastPoints.get(playerId), playerGames.get(playerId));
@@ -128,7 +124,7 @@ public class OclRestController {
 
             Collections.sort(result);
 
-            sb.append("Team ").append(teamNumber).append(":\n");
+            sb.append(owner(teamNumber, 2018)).append(":\n");
 
             if (TOP_20) {
                 int i = 0;
@@ -172,6 +168,9 @@ public class OclRestController {
             Multimap<String, String> individualPlayerIds = HashMultimap.create();
             Map<String, String> individualPlayerNames = Maps.newHashMap();
             Map<String, String> playerPositions = Maps.newHashMap();
+            Map<Integer, Integer> wins = Maps.newHashMap();
+            Map<Integer, Integer> losses = Maps.newHashMap();
+            Map<Integer, Integer> ties = Maps.newHashMap();
 
             Set<String> currentLineup = Sets.newHashSet();
 
@@ -181,7 +180,19 @@ public class OclRestController {
             System.out.println(owner(teamNumber, 2018));
 
             for (Game game : games) {
+
                 if (game.getSeason() != 2005 && game.isRegularSeasonGame()) {
+
+                    if (game.isWin()) {
+                        wins.put(game.getSeason(), wins.getOrDefault(game.getSeason(), 0) + 1);
+                    }
+                    if (game.isLoss()) {
+                        losses.put(game.getSeason(), losses.getOrDefault(game.getSeason(), 0) + 1);
+                    }
+                    if (game.isTie()) {
+                        ties.put(game.getSeason(), ties.getOrDefault(game.getSeason(), 0) + 1);
+                    }
+
                     TeamWeek teamWeek = game.getTeamWeek();
                     for (PlayerWeek playerWeek : teamWeek.getPlayerWeeks()) {
 
@@ -253,6 +264,7 @@ public class OclRestController {
                         playerLastPoints.get(playerId),
                         playerGames.get(playerId));
                 result.add(pp);
+
                 if (currentLineup.contains(playerId)) {
                     currentLineupPlayerPoints.add(pp);
                 }
@@ -264,8 +276,6 @@ public class OclRestController {
                     .append(p2.playerName, p1.playerName)
                     .toComparison());
 
-            sb.append(owner(teamNumber, 2018)).append(":\n");
-
             if (TOP_20) {
                 int i = 0;
                 int positionIndex = 0;
@@ -274,7 +284,25 @@ public class OclRestController {
                     if (pp.positionIndex() != positionIndex) {
                         positionIndex = pp.positionIndex();
                         i = 0;
-                        sb.append('\n').append(pp.playerPosition).append('\n');
+                        int rank = 1;
+                        int currentSeasonPoints = 0;
+                        for (PlayerPoints season : result.stream().filter(makeSeasonPredicate(positionIndex)).collect(Collectors.toList())) {
+                            if (season.season == 2018) {
+                                currentSeasonPoints = season.points;
+                                break;
+                            }
+                            rank++;
+                        }
+                        sb
+                                .append('\n')
+                                .append(pp.playerPosition)
+                                .append(", ")
+                                .append(owner(teamNumber, 2018))
+                                .append(" 2018: ")
+                                .append(currentSeasonPoints)
+                                .append(" (")
+                                .append(rank)
+                                .append(")\n\n");
                     }
 
                     i++;
@@ -292,8 +320,15 @@ public class OclRestController {
                         sb.append(" ");
                         sb.append(pp.season);
                         sb.append(" (");
+                        sb.append(wins.getOrDefault(pp.season, 0));
+                        sb.append('-');
+                        sb.append(losses.getOrDefault(pp.season, 0));
+                        if (ties.containsKey(pp.season)) {
+                            sb.append('-');
+                            sb.append(ties.get(pp.season));
+                        }
+                        sb.append(") ");
                         sb.append(pp.playerName);
-                        sb.append(")");
                         sb.append("\n");
                     }
                     if (i == countPerTeam) {
@@ -347,14 +382,14 @@ public class OclRestController {
 
         @Override
         public boolean equals(Object o) {
-            return o instanceof PlayerPoints && ((PlayerPoints) o).playerName.equals(playerName);
+            return o instanceof PlayerPoints && ((PlayerPoints) o).playerName.equals(playerName) && ((PlayerPoints) o).season.equals(season);
         }
 
         @Override
         public String toString() {
             if (TOP_20) {
 
-                StringBuilder sb = new StringBuilder(String.format("%s, %s: %d", playerPosition, playerName.split(":")[1], points));
+                StringBuilder sb = new StringBuilder(String.format("%s, %s: %d", playerPosition, playerName.contains(":") ? playerName.split(":")[1] : playerName, points));
                 if (null != lastPoints) {
                     writeLastPoints(sb);
                 }
@@ -494,6 +529,10 @@ public class OclRestController {
 
     private static Double percentage(Integer partial, Integer total) {
         return (double)partial / (double)total * (double)100;
+    }
+
+    private static Predicate<PlayerPoints> makeSeasonPredicate(final int positionIndex) {
+        return playerPoints -> playerPoints.positionIndex() == positionIndex;
     }
 
     @RequestMapping(value = "/game", method= RequestMethod.GET, produces = "application/json")
