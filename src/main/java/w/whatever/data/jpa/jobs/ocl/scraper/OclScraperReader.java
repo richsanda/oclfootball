@@ -30,8 +30,8 @@ public class OclScraperReader implements ItemReader<OclScraperGame> {
     private final static Integer minScoringPeriod = OclUtility.currentScoringPeriod;
     private final static Integer maxScoringPeriod = OclUtility.currentScoringPeriod;
 
-    private final static Integer minSeason = 2018; // 2006;
-    private final static Integer maxSeason = 2018;
+    private final static Integer minSeason = 2019; // 2006;
+    private final static Integer maxSeason = 2019;
 
     private Integer team = minTeam;
     private Integer scoringPeriod = minScoringPeriod;

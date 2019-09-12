@@ -3,7 +3,7 @@ $(pageBehavior)
 function pageBehavior () {
 
     var params = decodeURIComponent(window.location.search.substring(1));
-    var url = "/games/highestScores";
+    var url = "games/highestScores";
     if (params != "") { url += "?" + params; }
 
     $.ajax({
