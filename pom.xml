@@ -16,7 +16,7 @@
 
     <properties>
         <main.basedir>${basedir}/../..</main.basedir>
-        <spring.batch.version>3.0.4.RELEASE</spring.batch.version>
+        <spring.batch.version>4.2.0.RELEASE</spring.batch.version>
         <spring.version>4.1.1.RELEASE</spring.version>
         <apache.commons.version>3.4</apache.commons.version>
         <guava.version>18.0</guava.version>
